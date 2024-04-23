@@ -1,4 +1,4 @@
-const fulfillmentDriversCtrl = (req, res) => {
+const getData = (req, res) => {
     const { } = req.body;
 
     const response = {
@@ -558,5 +558,5 @@ const fulfillmentDriversCtrl = (req, res) => {
 };
 
 module.exports = {
-    fulfillmentDriversCtrl
+    getData
 };

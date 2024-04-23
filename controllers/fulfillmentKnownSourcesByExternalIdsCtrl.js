@@ -1,4 +1,4 @@
-const fulfillmentKnownSourcesByExternalIdsCtrl = (req, res) => {
+const getData = (req, res) => {
     const { } = req.body;
 
     const response = [
@@ -164,5 +164,5 @@ const fulfillmentKnownSourcesByExternalIdsCtrl = (req, res) => {
 };
 
 module.exports = {
-    fulfillmentKnownSourcesByExternalIdsCtrl
+    getData
 };

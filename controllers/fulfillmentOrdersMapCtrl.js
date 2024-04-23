@@ -1,4 +1,4 @@
-const fulfillmentOrdersMapCtrl = (req, res) => {
+const getData = (req, res) => {
     const { dispatch: { statusCodeList } } = req.body;
     let code = 0;
     if (statusCodeList) {
@@ -2003,5 +2003,5 @@ const fulfillmentOrdersMapCtrl = (req, res) => {
 };
 
 module.exports = {
-    fulfillmentOrdersMapCtrl
+    getData
 };

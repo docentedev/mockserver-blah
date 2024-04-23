@@ -1,4 +1,4 @@
-const getVehicleTypes = (req, res) => {
+const getData = (req, res) => {
     const { } = req.body;
 
     const response = [
@@ -44,5 +44,5 @@ const getVehicleTypes = (req, res) => {
 };
 
 module.exports = {
-    getVehicleTypes
+    getData
 };

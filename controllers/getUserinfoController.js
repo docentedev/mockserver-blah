@@ -1,4 +1,4 @@
-const getUserinfo = (req, res) => {
+const getData = (req, res) => {
     const { } = req.body;
 
     const pers = [
@@ -82,5 +82,5 @@ const getUserinfo = (req, res) => {
 };
 
 module.exports = {
-    getUserinfo
+    getData
 };

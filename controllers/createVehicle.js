@@ -1,4 +1,4 @@
-const createVehicle = (req, res) => {
+const getData = (req, res) => {
     const {
         licencePlate,
         vehicleTypeId,
@@ -51,5 +51,5 @@ const createVehicle = (req, res) => {
 };
 
 module.exports = {
-    createVehicle
+    getData
 };

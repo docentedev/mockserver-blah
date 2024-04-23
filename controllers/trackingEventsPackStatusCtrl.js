@@ -1,4 +1,4 @@
-const trackingEventsPackStatusCtrl = (req, res) => {
+const getData = (req, res) => {
     const { } = req.body;
 
     const response = [
@@ -450,5 +450,5 @@ const trackingEventsPackStatusCtrl = (req, res) => {
 };
 
 module.exports = {
-    trackingEventsPackStatusCtrl
+    getData
 };

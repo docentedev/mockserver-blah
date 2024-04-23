@@ -1,4 +1,4 @@
-const getCountries = (req, res) => {
+const getData = (req, res) => {
     const { } = req.body;
 
     const response = [
@@ -28,5 +28,5 @@ const getCountries = (req, res) => {
 };
 
 module.exports = {
-    getCountries
+    getData
 };
