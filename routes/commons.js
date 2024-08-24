@@ -2,7 +2,7 @@ const express = require('express');
 
 const router = express.Router();
 
-router.get('/alert-bff/alert/allNotifications', require('../controllers/allNotifications').getData);
+router.post('/alert-bff/alert/allNotifications', require('../controllers/allNotifications').getData);
 router.get('/alert-bff/alert/configurations', require('../controllers/alert-bff_configurations').getData);
 router.post('/alert-bff/courier/knownSourceId', require('../controllers/alert-bff_courier_knownSourceId').getData);
 router.get('/auth/userinfo', require('../controllers/getUserinfoController').getData);
@@ -27,5 +27,30 @@ router.post('/location-services/getDevicePositionHistory', require('../controlle
 router.post('/route/search', require('../controllers/routeSearch').getData);
 router.get('/tracking-events/pack-status', require('../controllers/trackingEventsPackStatusCtrl').getData);
 router.post('/fulfillment/vehicle-types', require('../controllers/getVehicleTypes').getData);
+router.post('/fulfillment/drivers/search', require('../controllers/fulfillmentDriversSearchCtrl').getData);
+
+// http://localhost:3009/fulfillment/orders/wp
+router.post('/fulfillment/orders/wp', require('../controllers/fulfillmentOrdersWp').getData);
+
+// http://localhost:3009/fulfillment/routes/5fc2c511-15b9-4521-a2e4-5806372c7686/priority
+router.put('/fulfillment/routes/:routeId/priority', require('../controllers/fulfillmentRoutesPriority').getData);
+
+// /health
+router.get('/health', require('../controllers/health').getData);
+// /user/filter
+router.get('/user/filter', require('../controllers/userFilter').getData);
+// /known-source
+router.get('/known-source', require('../controllers/knownSource').getData);
+
+// http://localhost:3009/fulfillment/orders/pack/146605
+router.get('/fulfillment/orders/pack/:id', require('../controllers/fulfillmentOrdersPack').getData);
+// http://localhost:3009/fulfillment/orders/packs/146605
+router.get('/fulfillment/orders/packs/:id', require('../controllers/fulfillmentOrdersPacks').getData);
+
+// http://localhost:3009/fulfillment/orders/v24460045JRSA-01/notifications?type=COMMENT
+router.get('/fulfillment/orders/:id/notifications', require('../controllers/fulfillmentOrdersNotifications').getData);
+
+// http://localhost:3009/fulfillment/drivers/9356d93a-8a37-489e-a307-de9be51bb1b9
+router.get('/fulfillment/drivers/:id', require('../controllers/fulfillmentDriversId').getData);
 
 module.exports = router;

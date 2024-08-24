@@ -2,8 +2,8 @@ const getData = (req, res) => {
     let response = [{
         origin: 'DELIVERY',
         CONFIG: {
-            alert_reason: ['example1'],
-            alert_status: ['example1'],
+            alert_reason: ['TODO'],
+            alert_status: ['TODO'],
         },
         update_at: 1604563200000,
         component: 'alert-bff',
@@ -11,8 +11,8 @@ const getData = (req, res) => {
     }, {
         origin: 'DELIVERY',
         CONFIG: {
-            alert_reason: ['example1'],
-            alert_status: ['example1'],
+            alert_reason: ['IN_PROGRESS'],
+            alert_status: ['IN_PROGRESS'],
         },
         update_at: 1604563200000,
         component: 'alert-bff',

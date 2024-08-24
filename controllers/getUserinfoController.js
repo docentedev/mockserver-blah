@@ -1,6 +1,8 @@
-const getData = (req, res) => {
-    const { } = req.body;
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+const getData = async (req, res) => {
+    const { } = req.body;
+    await sleep(1000);
     const pers = [
         'microfront_deliverybo_visualizador_jumbo_cl',
         'microfront_deliverybo_asignador_jumbo_cl',
