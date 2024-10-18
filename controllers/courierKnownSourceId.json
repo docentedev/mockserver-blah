@@ -1,0 +1,284 @@
+[
+    {
+        "E781": [
+            {
+                "id": 219,
+                "createdAt": "2021-06-01T02:50:19.594Z",
+                "updatedAt": "2021-06-01T02:50:19.594Z",
+                "dni": "76568660-1",
+                "name": "Transporte Interno Easy Belloto",
+                "code": "TI-EASY-E781",
+                "phoneNumber": "32-2999300",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 16
+            },
+            {
+                "id": 288,
+                "createdAt": "2022-04-18T16:21:15.711Z",
+                "updatedAt": "2022-04-18T16:21:15.711Z",
+                "dni": "76568660-1",
+                "name": "Transporte Operador Logístico Easy El Belloto Ii",
+                "code": "TOL-EASY-E781",
+                "phoneNumber": "32-2999300",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 17
+            }
+        ]
+    },
+    {
+        "E507": [
+            {
+                "id": 243,
+                "createdAt": "2021-06-01T02:50:19.594Z",
+                "updatedAt": "2021-06-01T02:50:19.594Z",
+                "dni": "76568660-1",
+                "name": "Transporte Interno Easy Puerto Montt",
+                "code": "TI-EASY-E507",
+                "phoneNumber": "65-329800",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 16
+            }
+        ]
+    },
+    {
+        "E517": [
+            {
+                "id": 250,
+                "createdAt": "2021-06-01T02:50:19.594Z",
+                "updatedAt": "2021-06-01T02:50:19.594Z",
+                "dni": "76568660-1",
+                "name": "Transporte Interno Easy Temuco",
+                "code": "TI-EASY-E517",
+                "phoneNumber": "45-2297300",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 16
+            }
+        ]
+    },
+    {
+        "E520": [
+            {
+                "id": 251,
+                "createdAt": "2021-06-01T02:50:19.594Z",
+                "updatedAt": "2021-06-01T02:50:19.594Z",
+                "dni": "76568660-1",
+                "name": "Transporte Interno Easy Valparaiso",
+                "code": "TI-EASY-E520",
+                "phoneNumber": "32-2574520",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 16
+            },
+            {
+                "id": 293,
+                "createdAt": "2022-04-18T16:21:15.711Z",
+                "updatedAt": "2022-04-18T16:21:15.711Z",
+                "dni": "76568660-1",
+                "name": "Transporte Operador Logístico Easy Valparaiso",
+                "code": "TOL-EASY-E520",
+                "phoneNumber": "32-2574520",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 17
+            }
+        ]
+    },
+    {
+        "J810": [
+            {
+                "id": 268,
+                "createdAt": "2021-11-18T11:15:11.432Z",
+                "updatedAt": "2021-11-18T11:15:11.432Z",
+                "dni": "93834000-5",
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "100-SPREAD": [
+            {
+                "id": 257,
+                "createdAt": "2021-08-13T17:23:29.523Z",
+                "updatedAt": "2021-08-13T17:23:29.523Z",
+                "dni": "11111111-1",
+                "name": "Spread",
+                "code": "SPREAD",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            },
+            {
+                "id": 257,
+                "createdAt": "2021-08-13T17:23:29.523Z",
+                "updatedAt": "2021-08-13T17:23:29.523Z",
+                "dni": "11111111-1",
+                "name": "Spread",
+                "code": "SPREAD",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "J762": [
+            {
+                "id": 268,
+                "createdAt": "2021-11-18T11:15:11.432Z",
+                "updatedAt": "2021-11-18T11:15:11.432Z",
+                "dni": "93834000-5",
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "O624": [
+            {
+                "id": 275,
+                "createdAt": "2022-03-24T23:12:57.670Z",
+                "updatedAt": "2022-03-24T23:12:57.670Z",
+                "dni": "11111111-1",
+                "name": "Beetrack",
+                "code": "BEETRACK",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "jumboargentinaj5204lomas": [
+            {
+                "id": 268,
+                "createdAt": "2021-11-18T11:15:11.432Z",
+                "updatedAt": "2021-11-18T11:15:11.432Z",
+                "dni": "93834000-5",
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "O495": [
+            {
+                "id": 262,
+                "createdAt": "2021-10-13T18:30:29.000Z",
+                "updatedAt": "2021-10-13T18:30:32.000Z",
+                "dni": "11111111-1",
+                "name": "Uber",
+                "code": "UBER",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "gbarbosab035": [
+            {
+                "id": 261,
+                "createdAt": "2021-10-12T22:13:15.569Z",
+                "updatedAt": "2021-10-12T22:13:15.569Z",
+                "dni": "11111111-1",
+                "name": "Zumpy",
+                "code": "ZUMPY",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 3,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "gbarbosab112": [
+            {
+                "id": 651,
+                "createdAt": "2023-05-29T16:08:51.350Z",
+                "updatedAt": "2023-05-29T16:08:51.350Z",
+                "dni": "11111111-1",
+                "name": "Home Delivery Brasil",
+                "code": "HOME_DELIVERY_BR",
+                "phoneNumber": "+56298761234",
+                "enable": true,
+                "countryId": 3,
+                "courierTypeId": 18
+            }
+        ]
+    },
+    {
+        "J988": []
+    },
+    {
+        "J619": []
+    },
+    {
+        "J656": []
+    },
+    {
+        "N698": []
+    },
+    {
+        "N758": []
+    },
+    {
+        "N698": []
+    },
+    {
+        "N707": []
+    },
+    {
+        "J656": []
+    },
+    {
+        "N654": []
+    },
+    {
+        "J762": []
+    },
+    {
+        "N707": []
+    },
+    {
+        "N654": []
+    },
+    {
+        "O714": []
+    },
+    {
+        "N704": []
+    },
+    {
+        "J988": []
+    },
+    {
+        "N704": []
+    },
+    {
+        "J810": []
+    },
+    {
+        "N758": []
+    }
+]

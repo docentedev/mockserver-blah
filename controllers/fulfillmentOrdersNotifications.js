@@ -1,5 +1,7 @@
+const { read } = require("./utils");
+
 const getData = (req, res) => {
-    let response = {"data":[],"pagination":{"page":1,"size":0,"totalPage":0,"totalCount":0}};
+    let response = read('fulfillmentOrdersNotifications.json');
     res.statusCode = 200;
     res.json(response);
 };

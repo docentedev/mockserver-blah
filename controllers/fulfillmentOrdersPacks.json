@@ -1,0 +1,520 @@
+{
+    "dispatch": {
+        "id": 146087,
+        "etaDate": 1728388800000,
+        "etaEndDate": 1728403200000,
+        "pickupDate": null,
+        "externalSystemOrderId": "v18445451-510",
+        "orderType": "Despacho a Domicilio",
+        "size": null,
+        "height": null,
+        "width": null,
+        "length": null,
+        "weight": null,
+        "createdAt": 1728048042148,
+        "updatedAt": 1728336981653,
+        "reprint": true,
+        "externalDriverId": null,
+        "externalSystem": {
+            "id": 18,
+            "name": "Sales Order",
+            "description": "Service Enterprise System to Manage Sales Order",
+            "type": "INTERNAL",
+            "groupCode": "CENCOMMERCE",
+            "enable": true
+        },
+        "dispatchType": {
+            "id": 28,
+            "name": "Despacho desde Tienda On Demand",
+            "code": "SFS_ON_DEMAND",
+            "enable": true,
+            "shippingEarly": false
+        },
+        "courier": {
+            "id": 262,
+            "name": "Uber",
+            "code": "UBER",
+            "dni": "11111111-1",
+            "phoneNumber": "56999999999",
+            "enable": true,
+            "countryId": 1,
+            "type": {
+                "id": 18,
+                "name": "Transporte Last Mile"
+            },
+            "virtual": false,
+            "shippingEarly": false
+        },
+        "vehicle": null,
+        "driver": null,
+        "origin": {
+            "id": 148857,
+            "identification": {
+                "value": "81.201.000-K"
+            },
+            "name": "SPID MORANDE",
+            "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+            "phoneNumber": "+56964817210",
+            "address": {
+                "street": "Morandé 226",
+                "postalCode": "8340423",
+                "location": {
+                    "latitude": -33.44053,
+                    "longitude": -70.65372
+                },
+                "country": {
+                    "code": "CL",
+                    "name": "Chile"
+                },
+                "adminZone": {
+                    "code": "13",
+                    "name": "Metropolitana de Santiago"
+                },
+                "subAdminZone1": {
+                    "code": "131",
+                    "name": "Santiago"
+                },
+                "subAdminZone2": {
+                    "code": "13101",
+                    "name": "Santiago"
+                }
+            },
+            "knownSourceId": 1169,
+            "knownSourceTypeId": 1,
+            "isClient": false,
+            "knownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "CL",
+                        "name": "Chile"
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13101",
+                        "name": "Santiago"
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                }
+            }
+        },
+        "destination": {
+            "id": 148094,
+            "identification": {
+                "type": "rutCHL",
+                "value": "194381492"
+            },
+            "name": "Romina carrasco",
+            "email": "luisamirandav@gmail.com",
+            "phoneNumber": "56911223344",
+            "address": {
+                "street": "Pedro de Valdivia Nte. 87-199",
+                "location": {
+                    "latitude": -33.419722289955,
+                    "longitude": -70.6153946394275
+                },
+                "country": {
+                    "code": "CL",
+                    "name": "Chile"
+                },
+                "adminZone": {
+                    "code": "13",
+                    "name": "Metropolitana de Santiago"
+                },
+                "subAdminZone1": {
+                    "code": "131",
+                    "name": "Santiago"
+                },
+                "subAdminZone2": {
+                    "code": "13123",
+                    "name": "Providencia"
+                }
+            },
+            "isClient": true
+        },
+        "scheduledTime": {
+            "id": 1,
+            "name": "Horario de Tienda",
+            "description": "Horario de atención a público",
+            "enable": false
+        },
+        "ownerKnownSource": {
+            "id": 1169,
+            "externalId": "O495",
+            "name": "SPID MORANDE",
+            "enable": true,
+            "identification": {
+                "value": "81.201.000-K"
+            },
+            "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+            "phoneNumber": "+56964817210",
+            "address": {
+                "street": "Morandé 226",
+                "postalCode": "8340423",
+                "location": {
+                    "latitude": -33.44053,
+                    "longitude": -70.65372
+                },
+                "country": {
+                    "code": "CL",
+                    "name": "Chile"
+                },
+                "adminZone": {
+                    "code": "13",
+                    "name": "Metropolitana de Santiago"
+                },
+                "subAdminZone1": {
+                    "code": "131",
+                    "name": "Santiago"
+                },
+                "subAdminZone2": {
+                    "code": "13101",
+                    "name": "Santiago"
+                }
+            },
+            "knownSourceType": {
+                "id": 1,
+                "name": "Cencosud Store",
+                "enable": true
+            },
+            "retailChain": {
+                "id": 9,
+                "name": "Spid (Chile)",
+                "enable": true,
+                "businessUnitId": 4,
+                "countryId": 1,
+                "code": "SPID_CL"
+            }
+        },
+        "packages": [
+            {
+                "id": 149362,
+                "lpn": "v18445451-510",
+                "tracking": "v18445451-510",
+                "gddNumber": "v18445451-510",
+                "bigTicket": false,
+                "totalComplements": 0,
+                "numberComplement": 1,
+                "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/04/v18445451-510.pdf",
+                "courierPackageId": "4A49BB0DEE52481BA9ABF2954E812401",
+                "lastStatusCode": "03",
+                "lastStatusDesc": "No Entregado",
+                "lastSubStatusCode": "06",
+                "lastSubStatusDesc": "Motivo Transporte (Reintentable)",
+                "splitLabel": false,
+                "details": [
+                    {
+                        "id": 299387,
+                        "sku": "469314",
+                        "skuDescription": "Cereal Cero Flakes Angel Caja 300 g",
+                        "skuImageUrl": "https://wongfoodqawlschv6io.vteximg.com.br/arquivos/ids/155527-200-200/cero-life-flakes.png?v=637681865671900000",
+                        "quantity": 2,
+                        "unitPrice": 1490,
+                        "measures": {
+                            "height": 1,
+                            "width": 1,
+                            "length": 1,
+                            "weight": 1
+                        }
+                    }
+                ],
+                "measures": {}
+            }
+        ],
+        "tags": [
+            {
+                "id": 798153,
+                "name": "pickup_address",
+                "value": "{\"name\":\"Av. Pdte. Kennedy 9001, Las Condes.\",\"latitude\":-33.480186,\"longitude\":-70.751607}"
+            },
+            {
+                "id": 798154,
+                "name": "contact_email",
+                "value": "nicolasm@gmail.com"
+            },
+            {
+                "id": 798148,
+                "name": "contact_phone",
+                "value": "56956186039"
+            },
+            {
+                "id": 798149,
+                "name": "tags",
+                "value": "[{\"name\":\"Comentarios del usuario\",\"value\":\"\"},{\"name\":\"Local de Origen\",\"value\":\"JA-Jumbo Costanera\"},{\"name\":\"Comuna\",\"value\":\"Providencia\"},{\"name\":\"Promesa\",\"value\":null},{\"name\":\"Ventanahoraria_inicio\",\"value\":\"20:00\"},{\"name\":\"Ventanahoraria_fin\",\"value\":\"22:00\"},{\"name\":\"Ítems\",\"value\":3},{\"name\":\"Unidades\",\"value\":40},{\"name\":\"Transportadora\",\"value\":\"AG Costanera\"},{\"name\":\"Cliente que recibe\",\"value\":\"Ximena Marin\"},{\"name\":\"Origen\",\"value\":\"App\"},{\"name\":\"Congelados\",\"value\":\"no\"},{\"name\":\"Prime\",\"value\":\"No\"},{\"name\":\"VIP\",\"value\":\"No\"},{\"name\":\"Colaborador\",\"value\":\"Sí\"},{\"name\":\"Alimentos frescos\",\"value\":\"Sí\"},{\"name\":\"Cigarros\",\"value\":\"No\"},{\"name\":\"Alcoholicos\",\"value\":\"No\"},{\"name\":\"invoiceValue\",\"value\":-16},{\"name\":\"invoiceValue\",\"value\":-16}]"
+            },
+            {
+                "id": 798146,
+                "name": "priority",
+                "value": "1"
+            },
+            {
+                "id": 798142,
+                "name": "contact_id",
+                "value": "186140036"
+            },
+            {
+                "id": 798229,
+                "name": "invoiceValue",
+                "value": "-16"
+            },
+            {
+                "id": 798161,
+                "name": "delivery_id",
+                "value": "del_Skm7De5SSBupq_KVToEkAQ"
+            },
+            {
+                "id": 798151,
+                "name": "flag",
+                "value": "SPID35"
+            },
+            {
+                "id": 798156,
+                "name": "contact_name",
+                "value": "Nicolas medina"
+            },
+            {
+                "id": 798145,
+                "name": "mode",
+                "value": "3"
+            },
+            {
+                "id": 798152,
+                "name": "identifier",
+                "value": "v18445451-510"
+            },
+            {
+                "id": 798650,
+                "name": "invoiceValue",
+                "value": "-16"
+            },
+            {
+                "id": 798144,
+                "name": "max_delivery_time",
+                "value": "2023-01-29 11:00:00"
+            },
+            {
+                "id": 798143,
+                "name": "service_time",
+                "value": "20"
+            },
+            {
+                "id": 798141,
+                "name": "latitude",
+                "value": "-33.50531469999999"
+            },
+            {
+                "id": 798157,
+                "name": "originalId",
+                "value": "v18445451-510"
+            },
+            {
+                "id": 798155,
+                "name": "contact_address",
+                "value": "Avenida Andrés Bello, Santiago, Providencia"
+            },
+            {
+                "id": 798158,
+                "name": "longitude",
+                "value": "-70.7239264"
+            },
+            {
+                "id": 798160,
+                "name": "min_delivery_time",
+                "value": "2023-01-29 09:00:00"
+            },
+            {
+                "id": 798162,
+                "name": "manual_courier_change",
+                "value": "true"
+            },
+            {
+                "id": 798150,
+                "name": "load",
+                "value": "10.3"
+            },
+            {
+                "id": 798147,
+                "name": "groups",
+                "value": "[{\"category\":\"TIPOS DE NEGOCIOS\",\"name\":\"Jumbo costanera\"},{\"category\":\"Tipo\",\"name\":\"Agendamiento\"}]"
+            },
+            {
+                "id": 798159,
+                "name": "bulks",
+                "value": "N/A"
+            }
+        ],
+        "deliveryWindow": {
+            "min": 1728388800000,
+            "max": 1728403200000
+        },
+        "status": {
+            "code": "06",
+            "description": "Motivo Transporte (Reintentable)"
+        },
+        "measures": null,
+        "commitShipDate": null,
+        "lpns": [
+            "v18445451-510"
+        ],
+        "trackings": [
+            "v18445451-510"
+        ],
+        "driverData": {}
+    },
+    "trackings": [
+        {
+            "name": "Listo para Recoger (ORIGIN)",
+            "category": "ORIGIN",
+            "active": true,
+            "statusList": [
+                {
+                    "code": "9006",
+                    "description": "Listo para Recoger",
+                    "observations": "",
+                    "date": 1728333884812,
+                    "id": 129
+                },
+                {
+                    "code": "1004",
+                    "description": "Reintentar Entrega",
+                    "observations": "Reprogramando Entrega",
+                    "date": 1728332575297,
+                    "id": 139
+                },
+                {
+                    "code": "1004",
+                    "description": "Reintentar Entrega",
+                    "observations": "Reprogramando Entrega",
+                    "date": 1728332153535,
+                    "id": 139
+                },
+                {
+                    "code": "999",
+                    "description": "Notificado",
+                    "observations": "",
+                    "date": 1728048043788,
+                    "id": 5
+                }
+            ],
+            "tags": []
+        },
+        {
+            "active": false,
+            "statusList": [],
+            "category": "TRANSIT",
+            "name": "TRANSIT"
+        },
+        {
+            "name": "Motivo Transporte (Reintentable) (DESTINY)",
+            "category": "DESTINY",
+            "active": true,
+            "statusList": [
+                {
+                    "code": "06",
+                    "description": "Motivo Transporte (Reintentable)",
+                    "observations": "algo",
+                    "date": 1728302451289,
+                    "id": 28
+                },
+                {
+                    "code": "03",
+                    "description": "No Entregado",
+                    "observations": "asd",
+                    "date": 1728298844690,
+                    "id": 7
+                },
+                {
+                    "code": "03",
+                    "description": "No Entregado",
+                    "observations": "",
+                    "date": 1728316829265,
+                    "id": 7
+                },
+                {
+                    "code": "03",
+                    "description": "No Entregado",
+                    "observations": "confirmo",
+                    "date": 1728320421391,
+                    "id": 7
+                },
+                {
+                    "code": "02",
+                    "description": "Problemas en la dirección (Reintentable)",
+                    "observations": "prueba",
+                    "date": 1728316800000,
+                    "id": 30
+                },
+                {
+                    "code": "03",
+                    "description": "No Entregado",
+                    "observations": "",
+                    "date": 1728316856517,
+                    "id": 7
+                },
+                {
+                    "code": "02",
+                    "description": "Problemas en la dirección (Reintentable)",
+                    "observations": "",
+                    "date": 1728320453207,
+                    "id": 30
+                },
+                {
+                    "code": "03",
+                    "description": "No Entregado",
+                    "observations": "",
+                    "date": 1728342005822,
+                    "id": 7
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Entregado (DELIVERED)",
+            "category": "DELIVERED",
+            "active": true,
+            "statusList": [
+                {
+                    "code": "02",
+                    "description": "Entregado",
+                    "observations": "asddd",
+                    "date": 1728331216230,
+                    "id": 4
+                }
+            ],
+            "tags": []
+        }
+    ]
+}

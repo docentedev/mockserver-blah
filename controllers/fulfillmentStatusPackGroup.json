@@ -1,0 +1,182 @@
+[
+    {
+        "code": "10-1002_",
+        "description": "CANCELLED",
+        "status": [
+            {
+                "code": "10",
+                "description": "CANCELLED",
+                "subStatus": []
+            },
+            {
+                "code": "1002",
+                "description": "CANCELLED",
+                "subStatus": []
+            }
+        ],
+        "codeTuples": "[\"10\",\"1002\"]"
+    },
+    {
+        "code": "01-02-17-04_",
+        "description": "DELIVERED",
+        "status": [
+            {
+                "code": "01",
+                "description": "DELIVERED",
+                "main": true,
+                "subStatus": []
+            },
+            {
+                "code": "02",
+                "description": "DELIVERED",
+                "main": true,
+                "subStatus": []
+            },
+            {
+                "code": "17",
+                "description": "IN_CUSTOMER",
+                "subStatus": []
+            },
+            {
+                "code": "04",
+                "description": "PARTIAL_DELIVERED",
+                "subStatus": []
+            }
+        ],
+        "codeTuples": "[\"01\",\"02\",\"17\",\"04\"]"
+    },
+    {
+        "code": "998-08_9005-9006",
+        "description": "READY_PICK_UP",
+        "status": [
+            {
+                "code": "998",
+                "description": "INVOICED",
+                "subStatus": []
+            },
+            {
+                "code": "08",
+                "description": "IN_TRANSIT",
+                "subStatus": [
+                    {
+                        "code": "9005",
+                        "description": "ON_ROUTE_FOR_PICKUP"
+                    },
+                    {
+                        "code": "9006",
+                        "description": "READY_FOR_PICKUP"
+                    }
+                ]
+            }
+        ],
+        "codeTuples": "[\"998\",[\"08\",\"9005\"],[\"08\",\"9006\"]]"
+    },
+    {
+        "code": "03-12-1004_",
+        "description": "UNDELIVERED",
+        "status": [
+            {
+                "code": "03",
+                "description": "UNDELIVERED",
+                "subStatus": []
+            },
+            {
+                "code": "12",
+                "description": "REFUSED",
+                "subStatus": []
+            },
+            {
+                "code": "1004",
+                "description": "RETRY_DELIVERED",
+                "subStatus": []
+            }
+        ],
+        "codeTuples": "[\"03\",\"12\",\"1004\"]"
+    },
+    {
+        "code": "999_",
+        "description": "NOTIFIED",
+        "status": [
+            {
+                "code": "999",
+                "description": "NOTIFIED",
+                "subStatus": []
+            }
+        ],
+        "codeTuples": "[\"999\"]"
+    },
+    {
+        "code": "08-14-09-16_-9000-9007-80-9001-9002-9003-9004",
+        "description": "IN_TRANSIT",
+        "status": [
+            {
+                "main": true,
+                "code": "08",
+                "description": "IN_TRANSIT",
+                "subStatus": [
+                    {
+                        "code": null,
+                        "description": "IN_TRANSIT"
+                    },
+                    {
+                        "code": "9000",
+                        "description": "TRONCAL_ROUTE"
+                    },
+                    {
+                        "code": "9007",
+                        "description": "DRIVER_ASSIGNED"
+                    },
+                    {
+                        "code": "80",
+                        "description": "BEFORE_DELIVERY"
+                    },
+                    {
+                        "code": "9001",
+                        "description": "MANAGED_CT"
+                    },
+                    {
+                        "code": "9002",
+                        "description": "IN_ROUTE_DESTINATION"
+                    },
+                    {
+                        "code": "9003",
+                        "description": "DRIVER_ASSIGNED"
+                    },
+                    {
+                        "code": "9004",
+                        "description": "ARRIVED_DESTINATION"
+                    }
+                ]
+            },
+            {
+                "code": "14",
+                "description": "PICKED_UP",
+                "subStatus": []
+            },
+            {
+                "code": "09",
+                "description": "PICKED_UP_ORIGIN",
+                "subStatus": []
+            },
+            {
+                "code": "16",
+                "description": "IN_TRANSIT",
+                "subStatus": []
+            }
+        ],
+        "codeTuples": "[[\"08\",null],[\"08\",\"9000\"],[\"08\",\"9007\"],[\"08\",\"80\"],[\"08\",\"9001\"],[\"08\",\"9002\"],[\"08\",\"9003\"],[\"08\",\"9004\"],\"14\",\"09\",\"16\"]"
+    },
+    {
+        "code": "15_",
+        "description": "NOT_PICKED_UP",
+        "status": [
+            {
+                "main": true,
+                "code": "15",
+                "description": "NOT_PICKED_UP",
+                "subStatus": []
+            }
+        ],
+        "codeTuples": "[\"15\"]"
+    }
+]

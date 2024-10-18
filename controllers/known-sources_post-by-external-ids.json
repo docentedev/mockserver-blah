@@ -1,0 +1,2408 @@
+[
+    {
+        "id": 1155,
+        "createdAt": "2023-05-25T13:24:57.085Z",
+        "updatedAt": "2023-05-25T13:24:57.085Z",
+        "externalId": "jumboargentinaj5204lomas",
+        "name": "JUMBO LOMAS",
+        "identificationCode": "",
+        "email": "",
+        "phoneNumber": "1111",
+        "enable": true,
+        "address": "Gral. Frías",
+        "latitude": "-34.79239",
+        "longitude": "-58.41694",
+        "landmark": "",
+        "logo": "",
+        "postalCode": "B1836",
+        "subAdminZone3Id": null,
+        "identificationType": "ARG_ID",
+        "isCd": false,
+        "pickupPointName": "",
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 17,
+            "createdAt": "2024-06-25T21:38:40.916Z",
+            "updatedAt": "2024-06-25T21:38:40.916Z",
+            "name": "Jumbo (Argentina)",
+            "enable": true,
+            "businessUnitId": 8,
+            "countryId": 5,
+            "code": "JUMBO_AR"
+        },
+        "subAdminZone2Id": {
+            "id": 11643,
+            "code": "Providenci",
+            "name": "Providencia",
+            "enable": true,
+            "subAdmin1": {
+                "id": 808,
+                "code": "Ciudad Aut",
+                "name": "Ciudad Autónoma de Buenos Aires",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 151,
+                    "code": "2",
+                    "name": "Ciudad Autónoma de Buenos Aires",
+                    "enable": true,
+                    "country": {
+                        "id": 5,
+                        "createdAt": "2021-10-05T00:55:11.740Z",
+                        "updatedAt": "2021-10-05T00:55:11.740Z",
+                        "name": "Argentina",
+                        "currency": "Peso argentino",
+                        "currencySymbol": "$",
+                        "code": "AR",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 5,
+            "createdAt": "2021-10-05T00:55:11.740Z",
+            "updatedAt": "2021-10-05T00:55:11.740Z",
+            "name": "Argentina",
+            "currency": "Peso argentino",
+            "currencySymbol": "$",
+            "code": "AR",
+            "enable": true
+        },
+        "adminZoneId": {
+            "id": 151,
+            "code": "2",
+            "name": "Ciudad Autónoma de Buenos Aires",
+            "enable": true,
+            "country": {
+                "id": 5,
+                "createdAt": "2021-10-05T00:55:11.740Z",
+                "updatedAt": "2021-10-05T00:55:11.740Z",
+                "name": "Argentina",
+                "currency": "Peso argentino",
+                "currencySymbol": "$",
+                "code": "AR",
+                "enable": true
+            }
+        },
+        "subAdminZone1Id": {
+            "id": 808,
+            "code": "Ciudad Aut",
+            "name": "Ciudad Autónoma de Buenos Aires",
+            "enable": true,
+            "adminZoneId": {
+                "id": 151,
+                "code": "2",
+                "name": "Ciudad Autónoma de Buenos Aires",
+                "enable": true,
+                "country": {
+                    "id": 5,
+                    "createdAt": "2021-10-05T00:55:11.740Z",
+                    "updatedAt": "2021-10-05T00:55:11.740Z",
+                    "name": "Argentina",
+                    "currency": "Peso argentino",
+                    "currencySymbol": "$",
+                    "code": "AR",
+                    "enable": true
+                }
+            }
+        }
+    },
+    {
+        "id": 1169,
+        "createdAt": "2024-03-05T14:18:36.190Z",
+        "updatedAt": "2024-03-05T14:18:36.190Z",
+        "externalId": "O495",
+        "name": "SPID MORANDE",
+        "identificationCode": "81.201.000-K",
+        "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+        "phoneNumber": "+56964817210",
+        "enable": true,
+        "address": "Morandé 226",
+        "latitude": "-33.44053",
+        "longitude": "-70.65372",
+        "landmark": null,
+        "logo": null,
+        "postalCode": "8340423",
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 258,
+            "code": "13101",
+            "name": "Santiago",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 1172,
+        "createdAt": "2023-05-17T13:18:42.238Z",
+        "updatedAt": "2023-05-17T13:18:42.238Z",
+        "externalId": "gbarbosab035",
+        "name": "Lauro de Freitas",
+        "identificationCode": "23652677289",
+        "email": null,
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Avenida Luiz Tarquínio Pontes",
+        "latitude": "-12.88545",
+        "longitude": "-38.30832",
+        "landmark": null,
+        "logo": null,
+        "postalCode": "42701-450",
+        "subAdminZone3Id": null,
+        "identificationType": "BR_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 16,
+            "createdAt": "2024-06-25T21:13:50.328Z",
+            "updatedAt": "2024-06-25T21:13:50.328Z",
+            "name": "GBarbosa (Brasil)",
+            "enable": true,
+            "businessUnitId": 7,
+            "countryId": 3,
+            "code": "GBARBOSA_BR"
+        },
+        "subAdminZone2Id": {
+            "id": 4073,
+            "code": "2915353",
+            "name": "Itaguaçu da Bahia",
+            "enable": true,
+            "subAdmin1": {
+                "id": 531,
+                "code": "29",
+                "name": "Bahia",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 40,
+                    "code": "001",
+                    "name": "Região Nordeste",
+                    "enable": true,
+                    "country": {
+                        "id": 3,
+                        "createdAt": "2021-10-05T00:54:49.373Z",
+                        "updatedAt": "2021-10-05T00:54:49.373Z",
+                        "name": "Brasil",
+                        "currency": "Real brasileño",
+                        "currencySymbol": "R",
+                        "code": "BR",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 3,
+            "createdAt": "2021-10-05T00:54:49.373Z",
+            "updatedAt": "2021-10-05T00:54:49.373Z",
+            "name": "Brasil",
+            "currency": "Real brasileño",
+            "currencySymbol": "R",
+            "code": "BR",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 545,
+        "createdAt": "2022-05-09T20:28:12.484Z",
+        "updatedAt": "2022-05-09T20:28:12.484Z",
+        "externalId": "100-SPREAD",
+        "name": "PARIS CD RENCA PAQUETERIA",
+        "identificationCode": "83274300-3",
+        "email": "esteban.olate@cencosud.cl",
+        "phoneNumber": "600 400 6400",
+        "enable": true,
+        "address": "Camino Vecinal 8600",
+        "latitude": "-33.39004",
+        "longitude": "-70.75809",
+        "landmark": "",
+        "logo": "[NULL]",
+        "postalCode": "8660004",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": true,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 2,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Paris",
+            "enable": true,
+            "businessUnitId": 3,
+            "countryId": 1,
+            "code": "PARIS_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 285,
+            "code": "13128",
+            "name": "Renca",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 1179,
+        "createdAt": "2024-04-17T09:54:46.819Z",
+        "updatedAt": "2024-04-17T09:54:46.819Z",
+        "externalId": "gbarbosab112",
+        "name": "Vitórida da Conquista",
+        "identificationCode": null,
+        "email": null,
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Avenida Olívia Flores",
+        "latitude": "-14.86721",
+        "longitude": "-40.82114",
+        "landmark": null,
+        "logo": null,
+        "postalCode": "45028-370",
+        "subAdminZone3Id": null,
+        "identificationType": "BR_ID",
+        "isCd": false,
+        "pickupPointName": "N/A",
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 16,
+            "createdAt": "2024-06-25T21:13:50.328Z",
+            "updatedAt": "2024-06-25T21:13:50.328Z",
+            "name": "GBarbosa (Brasil)",
+            "enable": true,
+            "businessUnitId": 7,
+            "countryId": 3,
+            "code": "GBARBOSA_BR"
+        },
+        "subAdminZone2Id": {
+            "id": 12126,
+            "code": "2933307",
+            "name": "Vitória da Conquista",
+            "enable": true,
+            "subAdmin1": {
+                "id": 531,
+                "code": "29",
+                "name": "Bahia",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 40,
+                    "code": "001",
+                    "name": "Região Nordeste",
+                    "enable": true,
+                    "country": {
+                        "id": 3,
+                        "createdAt": "2021-10-05T00:54:49.373Z",
+                        "updatedAt": "2021-10-05T00:54:49.373Z",
+                        "name": "Brasil",
+                        "currency": "Real brasileño",
+                        "currencySymbol": "R",
+                        "code": "BR",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 3,
+            "createdAt": "2021-10-05T00:54:49.373Z",
+            "updatedAt": "2021-10-05T00:54:49.373Z",
+            "name": "Brasil",
+            "currency": "Real brasileño",
+            "currencySymbol": "R",
+            "code": "BR",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 93,
+        "createdAt": "2021-03-01T23:34:45.557Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "J619",
+        "name": "JUMBO ARICA",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "58-2209143",
+        "enable": true,
+        "address": "Av. Diego Portales 161",
+        "latitude": "-18.46888",
+        "longitude": "-70.30699",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "1000000",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Jumbo",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "JUMBO_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 322,
+            "code": "15101",
+            "name": "Arica",
+            "enable": true,
+            "subAdmin1": {
+                "id": 52,
+                "code": "151",
+                "name": "Arica",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 15,
+                    "code": "15",
+                    "name": "Arica y Parinacota",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 94,
+        "createdAt": "2021-03-01T23:34:45.557Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "J656",
+        "name": "JUMBO SUPER ULRIKSEN",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "51-2420141",
+        "enable": true,
+        "address": "Guillermo Ulriksen 1630",
+        "latitude": "-29.92058",
+        "longitude": "-71.23433",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "1720526",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Jumbo",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "JUMBO_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 26,
+            "code": "04101",
+            "name": "La Serena",
+            "enable": true,
+            "subAdmin1": {
+                "id": 9,
+                "code": "041",
+                "name": "Elqui",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 4,
+                    "code": "04",
+                    "name": "Coquimbo",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 117,
+        "createdAt": "2021-03-01T23:34:45.557Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "J762",
+        "name": "JUMBO LOS TRAPENSES",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "2-6748526",
+        "enable": true,
+        "address": "Av. Camino Los Trapenses 3515",
+        "latitude": "-33.34311",
+        "longitude": "-70.54446",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "7700148",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Jumbo",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "JUMBO_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 272,
+            "code": "13115",
+            "name": "Lo Barnechea",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 118,
+        "createdAt": "2021-03-01T23:34:45.557Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "J810",
+        "name": "JUMBO LO CASTILLO (JUMBO SÚPER)",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "2-7219603",
+        "enable": true,
+        "address": "Eduardo Marquina 3412",
+        "latitude": "-33.39955",
+        "longitude": "-70.59240",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "7630000",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Jumbo",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "JUMBO_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 289,
+            "code": "13132",
+            "name": "Vitacura",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 119,
+        "createdAt": "2021-03-01T23:34:45.557Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "J988",
+        "name": "JUMBO PUERTAS DE CHICUREO",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "2-223980850",
+        "enable": true,
+        "address": "Av. Chicureo 130",
+        "latitude": "-33.28581",
+        "longitude": "-70.70014",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "9350791",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Jumbo",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "JUMBO_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 293,
+            "code": "13301",
+            "name": "Colina",
+            "enable": true,
+            "subAdmin1": {
+                "id": 46,
+                "code": "133",
+                "name": "Chacabuco",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 1126,
+        "createdAt": "2023-03-28T18:17:02.552Z",
+        "updatedAt": "2023-03-28T18:17:02.552Z",
+        "externalId": "O714",
+        "name": "SPID Las Condes",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "Av las condes 12631",
+        "latitude": "-333726449.00000",
+        "longitude": "-705140825.00000",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 44,
+            "code": "05104",
+            "name": "Juan Fernández",
+            "enable": true,
+            "subAdmin1": {
+                "id": 12,
+                "code": "051",
+                "name": "Valparaíso",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 5,
+                    "code": "05",
+                    "name": "Valparaíso",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 803,
+        "createdAt": "2022-09-01T20:02:17.674Z",
+        "updatedAt": "2022-09-01T20:02:17.674Z",
+        "externalId": "O624",
+        "name": "SPID35 El Alba",
+        "identificationCode": "81.201.000-K",
+        "email": "correo@cencosud.cl",
+        "phoneNumber": " N/A",
+        "enable": true,
+        "address": "Avda. Camino el Alba 11.969, local 101",
+        "latitude": "-33.40193",
+        "longitude": "-70.51444",
+        "landmark": null,
+        "logo": null,
+        "postalCode": "7620056",
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 271,
+            "code": "13114",
+            "name": "Las Condes",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 12,
+        "createdAt": "2021-03-01T23:34:42.896Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "E517",
+        "name": "EASY TEMUCO",
+        "identificationCode": "76568660-1",
+        "email": "",
+        "phoneNumber": "45-2297300",
+        "enable": true,
+        "address": "Caupolicán 0650",
+        "latitude": "-38.74640",
+        "longitude": "-72.60719",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "4791680",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": "Easy Temuco - Centro de Clientes",
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 3,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Easy",
+            "enable": true,
+            "businessUnitId": 2,
+            "countryId": 1,
+            "code": "EASY_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 175,
+            "code": "09101",
+            "name": "Temuco",
+            "enable": true,
+            "subAdmin1": {
+                "id": 30,
+                "code": "091",
+                "name": "Cautín",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 9,
+                    "code": "09",
+                    "name": "La Araucanía",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 197,
+        "createdAt": "2021-03-05T01:16:17.923Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "N707",
+        "name": "SANTA ISABEL LARRAIN",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Av. Larrain 6677",
+        "latitude": "-33.45270",
+        "longitude": "-70.56085",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "7870165",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 4,
+            "createdAt": "2021-03-04T16:32:48.776Z",
+            "updatedAt": "2021-03-04T16:32:48.776Z",
+            "name": "Santa Isabel",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "SISA_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 270,
+            "code": "13113",
+            "name": "La Reina",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 683,
+        "createdAt": "2022-07-07T18:59:04.169Z",
+        "updatedAt": "2022-07-07T18:59:04.169Z",
+        "externalId": "N707",
+        "name": "SPID La Reina Av Larrain",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "Av. Larraín 6677",
+        "latitude": "-33.45256",
+        "longitude": "-70.56085",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 270,
+            "code": "13113",
+            "name": "La Reina",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 662,
+        "createdAt": "2022-07-07T18:59:00.120Z",
+        "updatedAt": "2022-07-07T18:59:00.120Z",
+        "externalId": "J810",
+        "name": "SPID Jumbo Lo Castillo",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "2-7219603",
+        "enable": true,
+        "address": "Eduardo Marquina 3412",
+        "latitude": "-33.39961",
+        "longitude": "-70.59251",
+        "landmark": null,
+        "logo": null,
+        "postalCode": "7630000",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 289,
+            "code": "13132",
+            "name": "Vitacura",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 675,
+        "createdAt": "2022-07-07T18:59:02.628Z",
+        "updatedAt": "2022-07-07T18:59:02.628Z",
+        "externalId": "N654",
+        "name": "SPID Maipu Ciudad Satelite",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "Av. Alcalde José Luis Infante Larraín 1320, Maipú",
+        "latitude": "-33.55973",
+        "longitude": "-70.78357",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 276,
+            "code": "13119",
+            "name": "Maipú",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 678,
+        "createdAt": "2022-07-07T18:59:03.199Z",
+        "updatedAt": "2022-07-07T18:59:03.199Z",
+        "externalId": "J988",
+        "name": "SPID Super Puertas De Chicureo",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "Avendida Chicureo 130, Colina",
+        "latitude": "-33.28575",
+        "longitude": "-70.70003",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 293,
+            "code": "13301",
+            "name": "Colina",
+            "enable": true,
+            "subAdmin1": {
+                "id": 46,
+                "code": "133",
+                "name": "Chacabuco",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 679,
+        "createdAt": "2022-07-07T18:59:03.389Z",
+        "updatedAt": "2022-07-07T18:59:03.389Z",
+        "externalId": "N698",
+        "name": "SPID35 Penalolen Av Tobalaba",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Av. Tobalaba 13949, Peñalolen",
+        "latitude": "-33.50307",
+        "longitude": "-70.56147",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 279,
+            "code": "13122",
+            "name": "Peñalolén",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 659,
+        "createdAt": "2022-07-07T18:58:59.551Z",
+        "updatedAt": "2022-07-07T18:58:59.551Z",
+        "externalId": "N704",
+        "name": "SPID SISA Las Condes Francisco Bilbao",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "Av. Francisco Bilbao 2855",
+        "latitude": "-33.43565",
+        "longitude": "-70.59127",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 280,
+            "code": "13123",
+            "name": "Providencia",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 655,
+        "createdAt": "2022-07-07T18:58:58.795Z",
+        "updatedAt": "2022-07-07T18:58:58.795Z",
+        "externalId": "J762",
+        "name": "SPID Jumbo Los Trapenses",
+        "identificationCode": "81.201.000-K",
+        "email": " ",
+        "phoneNumber": "2-6748526",
+        "enable": true,
+        "address": "Av. Camino Los Trapenses 3515",
+        "latitude": "-33.34277",
+        "longitude": "-70.54467",
+        "landmark": null,
+        "logo": null,
+        "postalCode": "7700148",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 272,
+            "code": "13115",
+            "name": "Lo Barnechea",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 706,
+        "createdAt": "2022-07-07T18:59:08.597Z",
+        "updatedAt": "2022-07-07T18:59:08.597Z",
+        "externalId": "J656",
+        "name": "SPID Jumbo Super La Serena Ulriksen",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "Av. Guillermo Ulriksen 1634, La Serena",
+        "latitude": "-29.92028",
+        "longitude": "-71.23510",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 26,
+            "code": "04101",
+            "name": "La Serena",
+            "enable": true,
+            "subAdmin1": {
+                "id": 9,
+                "code": "041",
+                "name": "Elqui",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 4,
+                    "code": "04",
+                    "name": "Coquimbo",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 718,
+        "createdAt": "2022-07-07T19:01:09.163Z",
+        "updatedAt": "2022-07-07T19:01:09.163Z",
+        "externalId": "N758",
+        "name": "SPID SISA Maipú Tres Poniente",
+        "identificationCode": "81.201.000-K",
+        "email": null,
+        "phoneNumber": null,
+        "enable": true,
+        "address": "3 Poniente 2600, Maipú, Región Metropolitana",
+        "latitude": "-33.50409",
+        "longitude": "-70.78018",
+        "landmark": null,
+        "logo": null,
+        "postalCode": null,
+        "subAdminZone3Id": null,
+        "identificationType": null,
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 9,
+            "createdAt": "2021-10-06T15:51:39.677Z",
+            "updatedAt": "2021-10-06T15:51:39.677Z",
+            "name": "Spid (Chile)",
+            "enable": true,
+            "businessUnitId": 4,
+            "countryId": 1,
+            "code": "SPID_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 276,
+            "code": "13119",
+            "name": "Maipú",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 223,
+        "createdAt": "2021-03-05T01:16:17.923Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "N758",
+        "name": "SANTA ISABEL TRES PONIENTE, MAIPÚ",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Av. Tres Poniente 2600",
+        "latitude": "-33.50410",
+        "longitude": "-70.78018",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "9275900",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 4,
+            "createdAt": "2021-03-04T16:32:48.776Z",
+            "updatedAt": "2021-03-04T16:32:48.776Z",
+            "name": "Santa Isabel",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "SISA_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 276,
+            "code": "13119",
+            "name": "Maipú",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 224,
+        "createdAt": "2021-03-05T01:16:17.923Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "N654",
+        "name": "SANTA ISABEL ALCÁZAR, CIUDAD SATÉLITE",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Av. Alcalde Luis Infante Larraín 1320",
+        "latitude": "-33.55903",
+        "longitude": "-70.78424",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "9282060",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 4,
+            "createdAt": "2021-03-04T16:32:48.776Z",
+            "updatedAt": "2021-03-04T16:32:48.776Z",
+            "name": "Santa Isabel",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "SISA_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 276,
+            "code": "13119",
+            "name": "Maipú",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 243,
+        "createdAt": "2021-03-05T01:16:17.923Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "N698",
+        "name": "SANTA ISABEL TOBALABA",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Av. Tobalaba 13949",
+        "latitude": "-33.50335",
+        "longitude": "-70.56154",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "7930458",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 4,
+            "createdAt": "2021-03-04T16:32:48.776Z",
+            "updatedAt": "2021-03-04T16:32:48.776Z",
+            "name": "Santa Isabel",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "SISA_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 279,
+            "code": "13122",
+            "name": "Peñalolén",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 247,
+        "createdAt": "2021-03-05T01:16:17.923Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "N704",
+        "name": "SANTA ISABEL BILBAO",
+        "identificationCode": "81.201.000-K",
+        "email": "",
+        "phoneNumber": "N/A",
+        "enable": true,
+        "address": "Av. Francisco Bilbao 2855",
+        "latitude": "-33.43547",
+        "longitude": "-70.59144",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "7510873",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": null,
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 4,
+            "createdAt": "2021-03-04T16:32:48.776Z",
+            "updatedAt": "2021-03-04T16:32:48.776Z",
+            "name": "Santa Isabel",
+            "enable": true,
+            "businessUnitId": 1,
+            "countryId": 1,
+            "code": "SISA_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 280,
+            "code": "13123",
+            "name": "Providencia",
+            "enable": true,
+            "subAdmin1": {
+                "id": 44,
+                "code": "131",
+                "name": "Santiago",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 13,
+                    "code": "13",
+                    "name": "Metropolitana de Santiago",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 32,
+        "createdAt": "2021-03-01T23:34:42.896Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "E781",
+        "name": "EASY EL BELLOTO II",
+        "identificationCode": "76568660-1",
+        "email": "",
+        "phoneNumber": "32-2999300",
+        "enable": true,
+        "address": "Baden Powell 150",
+        "latitude": "-33.04559",
+        "longitude": "-71.42002",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "2440269",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": "Easy El Belloto II - Centro de Clientes",
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 3,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Easy",
+            "enable": true,
+            "businessUnitId": 2,
+            "countryId": 1,
+            "code": "EASY_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 75,
+            "code": "05801",
+            "name": "Quilpué",
+            "enable": true,
+            "subAdmin1": {
+                "id": 19,
+                "code": "058",
+                "name": "Marga Marga",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 5,
+                    "code": "05",
+                    "name": "Valparaíso",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 14,
+        "createdAt": "2021-03-01T23:34:42.896Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "E520",
+        "name": "EASY VALPARAISO",
+        "identificationCode": "76568660-1",
+        "email": "",
+        "phoneNumber": "32-2574520",
+        "enable": true,
+        "address": "Av. Argentina 51",
+        "latitude": "-33.04401",
+        "longitude": "-71.60425",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "2391394",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": "Easy Valparaiso - Centro de Clientes",
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 3,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Easy",
+            "enable": true,
+            "businessUnitId": 2,
+            "countryId": 1,
+            "code": "EASY_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 41,
+            "code": "05101",
+            "name": "Valparaíso",
+            "enable": true,
+            "subAdmin1": {
+                "id": 12,
+                "code": "051",
+                "name": "Valparaíso",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 5,
+                    "code": "05",
+                    "name": "Valparaíso",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    },
+    {
+        "id": 5,
+        "createdAt": "2021-03-01T23:34:42.896Z",
+        "updatedAt": "2021-07-30T13:19:10.480Z",
+        "externalId": "E507",
+        "name": "EASY PUERTO MONTT",
+        "identificationCode": "76568660-1",
+        "email": "",
+        "phoneNumber": "65-329800",
+        "enable": true,
+        "address": "Ejército 470",
+        "latitude": "-41.46848",
+        "longitude": "-72.93032",
+        "landmark": "",
+        "logo": null,
+        "postalCode": "5502071",
+        "subAdminZone3Id": null,
+        "identificationType": "CL_ID",
+        "isCd": false,
+        "pickupPointName": "Easy Puerto Montt - Centro de Clientes",
+        "ruleName": null,
+        "knownSourceType": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:39.059Z",
+            "updatedAt": "2021-03-01T23:34:39.059Z",
+            "name": "Cencosud Store",
+            "enable": true
+        },
+        "retailChain": {
+            "id": 3,
+            "createdAt": "2021-03-01T23:34:37.879Z",
+            "updatedAt": "2021-03-01T23:34:37.879Z",
+            "name": "Easy",
+            "enable": true,
+            "businessUnitId": 2,
+            "countryId": 1,
+            "code": "EASY_CL"
+        },
+        "subAdminZone2Id": {
+            "id": 207,
+            "code": "10101",
+            "name": "Puerto Montt",
+            "enable": true,
+            "subAdmin1": {
+                "id": 32,
+                "code": "101",
+                "name": "Llanquihue",
+                "enable": true,
+                "adminZoneId": {
+                    "id": 10,
+                    "code": "10",
+                    "name": "Los Lagos",
+                    "enable": true,
+                    "country": {
+                        "id": 1,
+                        "createdAt": "2021-03-01T23:34:35.972Z",
+                        "updatedAt": "2021-03-01T23:34:35.972Z",
+                        "name": "Chile",
+                        "currency": "Pesos",
+                        "currencySymbol": "$",
+                        "code": "CL",
+                        "enable": true
+                    }
+                }
+            }
+        },
+        "country": {
+            "id": 1,
+            "createdAt": "2021-03-01T23:34:35.972Z",
+            "updatedAt": "2021-03-01T23:34:35.972Z",
+            "name": "Chile",
+            "currency": "Pesos",
+            "currencySymbol": "$",
+            "code": "CL",
+            "enable": true
+        },
+        "adminZoneId": null,
+        "subAdminZone1Id": null
+    }
+]

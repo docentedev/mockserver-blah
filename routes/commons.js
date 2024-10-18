@@ -18,7 +18,7 @@ router.get('/fulfillment/providers', require('../controllers/providers').getData
 router.get('/fulfillment/propulsion-types', require('../controllers/getPropulsionTypes').getPropulsionTypes);
 router.post('/fulfillment/known-sources/post-by-external-ids', require('../controllers/known-sources_post-by-external-ids').getData);
 router.get('/fulfillment/status', require('../controllers/vehicleStatusController').getData);
-router.get('/fulfillment/vehicles',  require('../controllers/getVehicles').getData);
+router.get('/fulfillment/vehicles', require('../controllers/getVehicles').getData);
 router.post('/fulfillment/vehicles', require('../controllers/createVehicle').getData);
 router.post('/fulfillment/route/search', require('../controllers/getRoutes').getData);
 router.get('/known-source/subAdminZone2ByCountryCode/ar', require('../controllers/subAdminZone2ByCountryCode').getData);
@@ -52,5 +52,32 @@ router.get('/fulfillment/orders/:id/notifications', require('../controllers/fulf
 
 // http://localhost:3009/fulfillment/drivers/9356d93a-8a37-489e-a307-de9be51bb1b9
 router.get('/fulfillment/drivers/:id', require('../controllers/fulfillmentDriversId').getData);
+
+// http://localhost:3009/tracking-events/byExternalSystemOrderId/v24460045JRSA-01
+router.get('/tracking-events/byExternalSystemOrderId/:id', require('../controllers/trackingEventsByExternalSystemOrderId').getData);
+
+// http://localhost:3009/fulfillment/dispatch/find-route/v24460045JRSA-01
+router.get('/fulfillment/dispatch/find-route/:id', require('../controllers/fulfillmentDispatchFindRoute').getData);
+
+// /bo-drc-users GET /bo-drc-users/email/:email, PUT /bo-drc-users/:id
+router.get('/bo-drc-users/email/:email', (req, res) => {
+    console.log('GET /bo-drc-users/email/:email', req.params.email);
+    res.json({ id: '12345', email: req.params.email, name: 'John Doe' });
+});
+
+router.put('/bo-drc-users/:id', (req, res) => {
+    res.json({ id: req.params.id, ...req.body });
+});
+
+// POST /known-sources/by-external-ids
+router.post('/alert-bff/known-sources/by-external-ids', require('../controllers/known-sources-by-external-ids').getData);
+
+// GET
+// https://daas.ecomm-stg.cencosud.com/daas-bff/v1/fulfillment/status/pack-group
+router.get('/fulfillment/status/pack-group', require('../controllers/fulfillmentStatusPackGroup').getData);
+
+// POST
+// https://daas.ecomm-stg.cencosud.com/daas-bff/v1/courier/knownSourceId
+router.post('/courier/knownSourceId', require('../controllers/courierKnownSourceId').getData);
 
 module.exports = router;

@@ -1,0 +1,236 @@
+{
+    "user": "claeroja",
+    "email": "claudio.rojasrodriguez@cencosud.cl",
+    "fullName": "Claudio Rojas Rodriguez",
+    "active": true,
+    "externalUser": false,
+    "lastLogin": 1727710440591,
+    "knownSources": [
+        {
+            "externalId": "J619",
+            "name": "JUMBO ARICA",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "J656",
+            "name": "JUMBO SUPER ULRIKSEN",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "J762",
+            "name": "JUMBO LOS TRAPENSES",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "J810",
+            "name": "JUMBO LO CASTILLO (JUMBO SÚPER)",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "J988",
+            "name": "JUMBO PUERTAS DE CHICUREO",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "E507",
+            "name": "EASY PUERTO MONTT",
+            "isCd": false,
+            "group": "EASY"
+        },
+        {
+            "externalId": "E517",
+            "name": "EASY TEMUCO",
+            "isCd": false,
+            "group": "EASY"
+        },
+        {
+            "externalId": "E520",
+            "name": "EASY VALPARAISO",
+            "isCd": false,
+            "group": "EASY"
+        },
+        {
+            "externalId": "E781",
+            "name": "EASY EL BELLOTO II",
+            "isCd": false,
+            "group": "EASY"
+        },
+        {
+            "externalId": "N707",
+            "name": "SPID35 La Reina Av Larrain",
+            "isCd": false,
+            "group": "SISA"
+        },
+        {
+            "externalId": "N758",
+            "name": "SPID Maipu 3 Poniente",
+            "isCd": false,
+            "group": "SISA"
+        },
+        {
+            "externalId": "N654",
+            "name": "SPID Ciudad Satélite",
+            "isCd": false,
+            "group": "SISA"
+        },
+        {
+            "externalId": "N698",
+            "name": "SPID Tobalaba",
+            "isCd": false,
+            "group": "SISA"
+        },
+        {
+            "externalId": "N704",
+            "name": "SPID35 SISA Las Condes Francisco Bilbao",
+            "isCd": false,
+            "group": "SISA"
+        },
+        {
+            "externalId": "O624",
+            "name": "SPID35 El Alba",
+            "isCd": false,
+            "group": "Spid"
+        },
+        {
+            "externalId": "100-SPREAD",
+            "name": "PARIS CD RENCA PAQUETERIA",
+            "isCd": true,
+            "group": "PARIS"
+        },
+        {
+            "externalId": "O727",
+            "name": "QUICKCOMMERCE FLEMING",
+            "isCd": false,
+            "group": "SPID"
+        },
+        {
+            "externalId": "O714",
+            "name": "SPID Las Condes",
+            "isCd": false,
+            "group": "Spid"
+        },
+        {
+            "externalId": "jumboargentinaj5204lomas",
+            "name": "JUMBO LOMAS",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "gbarbosab035",
+            "name": "Costa Azul - Salvador",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab108",
+            "name": "LAURO DE FREITAS",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab015",
+            "name": "FREIRA DE SANTANA",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab112",
+            "name": "VITORIDA DA CONQUISTA",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab084",
+            "name": "STELLA MARIS - MACEIO",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab274",
+            "name": "GUARAJUBA",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab198",
+            "name": "PADRE VALDEVINO",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab006",
+            "name": "JARDINS",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "gbarbosab101",
+            "name": "CD ARACAJU",
+            "isCd": false,
+            "group": "GBARBOSA"
+        },
+        {
+            "externalId": "jumboargentinaj5202martinez",
+            "name": "JUMBO MARTINEZ",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "jumboargentinaj5206palermo",
+            "name": "JUMBO PALERMO",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "jumboargentinaj5207quilmes",
+            "name": "JUMBO QUILMES",
+            "isCd": false,
+            "group": "JUMBO"
+        },
+        {
+            "externalId": "spidregco341suba",
+            "name": "SPID Suba",
+            "isCd": false,
+            "group": "SPID_CO"
+        },
+        {
+            "externalId": "spidregco342autosur",
+            "name": "SPID Autosur",
+            "isCd": false,
+            "group": "SPID_CO"
+        },
+        {
+            "externalId": "O495",
+            "name": "SPID Morandé",
+            "isCd": false,
+            "group": "SPID"
+        }
+    ],
+    "rol": {
+        "name": "DAAS_ROOT",
+        "description": "Super Administrador",
+        "privileges": [
+            "root:root"
+        ]
+    },
+    "microfront_deliverybo_permissions": [
+        "microfront_deliverybo_supervisor_jumbo_cl",
+        "microfront_deliverybo_supervisor_sisa_cl",
+        "microfront_deliverybo_supervisor_spid_cl",
+        "microfront_deliverybo_supervisor_easy_cl",
+        "microfront_deliverybo_supervisor_paris_cl",
+        "microfront_deliverybo_supervisor_wong_pe",
+        "microfront_deliverybo_supervisor_metro_pe",
+        "microfront_deliverybo_supervisor_jumbo_co",
+        "microfront_deliverybo_supervisor_metro_co",
+        "microfront_deliverybo_supervisor_spid_co",
+        "microfront_deliverybo_supervisor_jumbo_ar",
+        "microfront_deliverybo_supervisor_spid_ar",
+        "microfront_deliverybo_supervisor_gbarbosa_br"
+    ]
+}

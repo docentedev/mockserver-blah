@@ -1,0 +1,1385 @@
+{
+    "packages": [
+        {
+            "dispatchOrderId": 145945,
+            "packId": 149220,
+            "creationDate": 1727710702199,
+            "lpn": "v18445451-475",
+            "tracking": "v18445451-475",
+            "externalOrder": "v18445451-475",
+            "gddNumber": "v18445451-475",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/September/30/v18445451-475.pdf",
+            "etaDate": 1729080003640,
+            "etaEndDate": 1729081803640,
+            "courier": {
+                "id": 268,
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "dni": "93834000-5",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": true,
+                "shippingEarly": true
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 147952,
+                "name": "Romina carrasco",
+                "email": "luisamirandav@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "1004",
+                "description": "Reintentar Entrega"
+            },
+            "subStatus": {
+                "code": null,
+                "description": null
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 146265,
+            "packId": 149540,
+            "creationDate": 1728997130440,
+            "lpn": "v511234995spid-011",
+            "tracking": "v511234995spid-011",
+            "externalOrder": "v511234995spid-011",
+            "gddNumber": "v511234995spid-01",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/15/v511234995spid-011.pdf",
+            "etaDate": 1729017000000,
+            "etaEndDate": 1729020600000,
+            "courier": {
+                "id": 262,
+                "name": "Uber",
+                "code": "UBER",
+                "dni": "11111111-1",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": false,
+                "shippingEarly": false
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 148272,
+                "name": "Pedro Guedez",
+                "email": "pedro.guedezforgiarini@cencosud.cl",
+                "phoneNumber": "+56992934004",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Morandé 227",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.415341,
+                        "longitude": -70.5940413
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "262292703"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "subStatus": {
+                "code": null,
+                "description": null
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 146266,
+            "packId": 149541,
+            "creationDate": 1728997507108,
+            "lpn": "v511234995spid-012",
+            "tracking": "v511234995spid-012",
+            "externalOrder": "v511234995spid-012",
+            "gddNumber": "v511234995spid-01",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/15/v511234995spid-012.pdf",
+            "etaDate": 1729009500000,
+            "etaEndDate": 1729013100000,
+            "courier": {
+                "id": 262,
+                "name": "Uber",
+                "code": "UBER",
+                "dni": "11111111-1",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": false,
+                "shippingEarly": false
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 148273,
+                "name": "Pedro Guedez",
+                "email": "pedro.guedezforgiarini@cencosud.cl",
+                "phoneNumber": "+56992934004",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Morandé 227",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.415341,
+                        "longitude": -70.5940413
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "262292703"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "subStatus": {
+                "code": null,
+                "description": null
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 146267,
+            "packId": 149542,
+            "creationDate": 1728997865547,
+            "lpn": "v511234995spid-013",
+            "tracking": "v511234995spid-013",
+            "externalOrder": "v511234995spid-013",
+            "gddNumber": "v511234995spid-01",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/15/v511234995spid-013.pdf",
+            "etaDate": 1729008000000,
+            "etaEndDate": 1729011600000,
+            "courier": {
+                "id": 262,
+                "name": "Uber",
+                "code": "UBER",
+                "dni": "11111111-1",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": false,
+                "shippingEarly": false
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 148274,
+                "name": "Pedro Guedez",
+                "email": "pedro.guedezforgiarini@cencosud.cl",
+                "phoneNumber": "+56992934004",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Morandé 227",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.415341,
+                        "longitude": -70.5940413
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "262292703"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "subStatus": {
+                "code": null,
+                "description": null
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 146087,
+            "packId": 149362,
+            "creationDate": 1728037242148,
+            "lpn": "v18445451-510",
+            "tracking": "v18445451-510",
+            "externalOrder": "v18445451-510",
+            "gddNumber": "v18445451-510",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/04/v18445451-510.pdf",
+            "etaDate": 1728388800000,
+            "etaEndDate": 1728403200000,
+            "courier": {
+                "id": 262,
+                "name": "Uber",
+                "code": "UBER",
+                "dni": "11111111-1",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": false,
+                "shippingEarly": false
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 148094,
+                "name": "Romina carrasco",
+                "email": "luisamirandav@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "06",
+                "description": "Motivo Transporte (Reintentable)"
+            },
+            "subStatus": {
+                "code": "06",
+                "description": "Motivo Transporte (Reintentable)"
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 145991,
+            "packId": 149266,
+            "creationDate": 1727884220418,
+            "lpn": "v18445451-494",
+            "tracking": "v18445451-494",
+            "externalOrder": "v18445451-494",
+            "gddNumber": "v18445451-494",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/02/v18445451-494.pdf",
+            "etaDate": 1728388800000,
+            "etaEndDate": 1728401400000,
+            "courier": {
+                "id": 268,
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "dni": "93834000-5",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": true,
+                "shippingEarly": true
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 147998,
+                "name": "Romina carrasco",
+                "email": "luisamirandav@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "1004",
+                "description": "Reintentar Entrega"
+            },
+            "subStatus": {
+                "code": "30",
+                "description": "Motivo Cliente (Reintentable)"
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 146135,
+            "packId": 149410,
+            "creationDate": 1728313588254,
+            "lpn": "v1234600test-01",
+            "tracking": "v1234600test-01",
+            "externalOrder": "v1234600test-01",
+            "gddNumber": "v21526571-05",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/07/v1234600test-01.pdf",
+            "etaDate": 1728388800000,
+            "etaEndDate": 1728401400000,
+            "courier": {
+                "id": 268,
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "dni": "93834000-5",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": true,
+                "shippingEarly": true
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 148142,
+                "name": "Romina carrasco",
+                "email": "rominac@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "1004",
+                "description": "Reintentar Entrega"
+            },
+            "subStatus": {
+                "code": null,
+                "description": null
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 145961,
+            "packId": 149236,
+            "creationDate": 1727784926936,
+            "lpn": "v18445451-485",
+            "tracking": "v18445451-485",
+            "externalOrder": "v18445451-485",
+            "gddNumber": "v18445451-485",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/01/v18445451-485.pdf",
+            "etaDate": 1728388800000,
+            "etaEndDate": 1728401400000,
+            "courier": {
+                "id": 262,
+                "name": "Uber",
+                "code": "UBER",
+                "dni": "11111111-1",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": false,
+                "shippingEarly": false
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 147968,
+                "name": "Romina carrasco",
+                "email": "luisamirandav@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "15",
+                "description": "No Recogido"
+            },
+            "subStatus": {
+                "code": "06",
+                "description": "Motivo Transporte (Reintentable)"
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 145932,
+            "packId": 149207,
+            "creationDate": 1727702168834,
+            "lpn": "v18445451-472",
+            "tracking": "v18445451-472",
+            "externalOrder": "v18445451-472",
+            "gddNumber": "v18445451-472",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/September/30/v18445451-472.pdf",
+            "etaDate": 1728388800000,
+            "etaEndDate": 1728399600000,
+            "courier": {
+                "id": 268,
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "dni": "93834000-5",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": true,
+                "shippingEarly": true
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 147939,
+                "name": "Romina carrasco",
+                "email": "luisamirandav@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "1004",
+                "description": "Reintentar Entrega"
+            },
+            "subStatus": {
+                "code": "06",
+                "description": "Motivo Transporte (Reintentable)"
+            },
+            "vehicle": "",
+            "driver": {
+                "fullName": "",
+                "phone": ""
+            }
+        },
+        {
+            "dispatchOrderId": 146129,
+            "packId": 149404,
+            "creationDate": 1728305929321,
+            "lpn": "v18445451-522",
+            "tracking": "v18445451-522",
+            "externalOrder": "v18445451-522",
+            "gddNumber": "v18445451-522",
+            "labelImgUrl": "https://daas-files.ecomm-stg.cencosud.com/dispatch/labels/2024/October/07/v18445451-522.pdf",
+            "etaDate": 1728349200000,
+            "etaEndDate": 1728349200000,
+            "courier": {
+                "id": 268,
+                "name": "Home Delivery Chile",
+                "code": "HOME_DELIVERY",
+                "dni": "93834000-5",
+                "phoneNumber": "56999999999",
+                "enable": true,
+                "countryId": 1,
+                "type": {
+                    "id": 18,
+                    "name": "Transporte Last Mile"
+                },
+                "virtual": true,
+                "shippingEarly": true
+            },
+            "ownerKnownSource": {
+                "id": 1169,
+                "externalId": "O495",
+                "name": "SPID MORANDE",
+                "enable": true,
+                "identification": {
+                    "type": null,
+                    "value": "81.201.000-K"
+                },
+                "email": "LSTCL_G500_Spid_Morande@cencosud.cl",
+                "phoneNumber": "+56964817210",
+                "address": {
+                    "street": "Morandé 226",
+                    "postalCode": "8340423",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.44053,
+                        "longitude": -70.65372
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": null,
+                "retailChain": {
+                    "id": 9,
+                    "name": "Spid (Chile)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 1,
+                    "code": "SPID_CL"
+                },
+                "ruleName": null
+            },
+            "externalSystem": {
+                "id": 18,
+                "createdAt": "2021-08-26T11:38:39.120Z",
+                "updatedAt": "2021-08-26T11:38:39.120Z",
+                "groupCode": "CENCOMMERCE",
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "enable": true,
+                "code": "SALES_ORDER"
+            },
+            "client": {
+                "id": 148136,
+                "name": "Romina carrasco",
+                "email": "luisamirandav@gmail.com",
+                "phoneNumber": "56911223344",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pedro de Valdivia Nte. 87-199",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.419722289955,
+                        "longitude": -70.6153946394275
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "identification": {
+                    "type": "rutCHL",
+                    "value": "194381492"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": null
+            },
+            "status": {
+                "code": "01",
+                "description": "Entregado a Domicilio"
+            },
+            "subStatus": {
+                "code": "01",
+                "description": "Entregado a Domicilio"
+            },
+            "vehicle": {
+                "licencePlate": "RAMI123"
+            },
+            "driver": {
+                "fullName": "Claudio Rojas",
+                "phone": "+5612333333"
+            }
+        }
+    ],
+    "pagination": {
+        "totalPages": 11,
+        "totalElements": 102,
+        "page": 1,
+        "pageSize": 10,
+        "numberOfElements": 10,
+        "isLast": false,
+        "isFirst": true
+    }
+}
