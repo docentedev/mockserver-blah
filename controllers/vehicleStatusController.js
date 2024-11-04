@@ -17,10 +17,6 @@ const getData = (req, res) => {
         {
             "id": 4,
             "name": "INACTIVE"
-        },
-        {
-            "id": 5,
-            "name": "PPPB16"
         }
     ];
     res.statusCode = 200;

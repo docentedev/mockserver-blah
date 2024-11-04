@@ -1,8 +1,6 @@
 const getData = (req, res) => {
-    let response = {
-        ok: true,
-    };
-    res.statusCode = 200;
+    let response = { "statusCode": 500, "message": "Internal server error" };
+    res.statusCode = 500;
     res.json(response);
 };
 

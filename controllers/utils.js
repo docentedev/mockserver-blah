@@ -8,6 +8,13 @@ const read = (filename) => {
     return data;
 }
 
+const readRes = (status, filename) => (req, res) => {
+    let response = read('../jsons/' + filename + '.json');
+    res.statusCode = status;
+    res.json(response);
+};
+
 module.exports = {
-    read
+    read,
+    readRes
 };

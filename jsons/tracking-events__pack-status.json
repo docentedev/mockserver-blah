@@ -1,0 +1,438 @@
+[
+    {
+        "id": 93,
+        "code": "15",
+        "description": "No Recogido",
+        "subStatus": []
+    },
+    {
+        "id": 13,
+        "code": "1000",
+        "description": "Código de Estatus Desconocido",
+        "subStatus": []
+    },
+    {
+        "id": 33,
+        "code": "05",
+        "description": "Recogido Devoluciones",
+        "subStatus": [
+            {
+                "id": 35,
+                "code": "63",
+                "description": "Courier",
+                "subStatusId": 33
+            },
+            {
+                "id": 34,
+                "code": "62",
+                "description": "Recogido",
+                "subStatusId": 33
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "code": "991",
+        "description": "Entregado Devoluciones",
+        "subStatus": [
+            {
+                "id": 37,
+                "code": "01",
+                "description": "En Destino",
+                "subStatusId": 36
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "code": "06",
+        "description": "No Recogido Devoluciones",
+        "subStatus": [
+            {
+                "id": 43,
+                "code": "68",
+                "description": "No cumple condición de retiro",
+                "subStatusId": 38
+            },
+            {
+                "id": 41,
+                "code": "06",
+                "description": "Por motivos del transporte",
+                "subStatusId": 38
+            },
+            {
+                "id": 45,
+                "code": "92",
+                "description": "No Recogido Problemas en la dirección - Definitivo",
+                "subStatusId": 38
+            },
+            {
+                "id": 39,
+                "code": "03",
+                "description": "Cliente No Está",
+                "subStatusId": 38
+            },
+            {
+                "id": 44,
+                "code": "93",
+                "description": "No Recogido Cliente No Está - Definitivo",
+                "subStatusId": 38
+            },
+            {
+                "id": 47,
+                "code": "930",
+                "description": "No Recogido Motivo Cliente - Definitivo",
+                "subStatusId": 38
+            },
+            {
+                "id": 42,
+                "code": "30",
+                "description": "Por motivos del cliente",
+                "subStatusId": 38
+            },
+            {
+                "id": 40,
+                "code": "02",
+                "description": "Problemas en la dirección",
+                "subStatusId": 38
+            },
+            {
+                "id": 46,
+                "code": "96",
+                "description": "No Recogido Motivo Transporte - Definitivo",
+                "subStatusId": 38
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "code": "07",
+        "description": "No Entregado Devoluciones",
+        "subStatus": []
+    },
+    {
+        "id": 1,
+        "code": "999",
+        "description": "Notificado",
+        "subStatus": []
+    },
+    {
+        "id": 49,
+        "code": "11",
+        "description": "Falla por sistema externo",
+        "subStatus": []
+    },
+    {
+        "id": 50,
+        "code": "13",
+        "description": "Orden validada",
+        "subStatus": []
+    },
+    {
+        "id": 51,
+        "code": "10",
+        "description": "Cancelado",
+        "subStatus": [
+            {
+                "id": 58,
+                "code": "32",
+                "description": "Motivo Sistema",
+                "subStatusId": 51
+            },
+            {
+                "id": 57,
+                "code": "31",
+                "description": "Motivo Cliente",
+                "subStatusId": 51
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "code": "1004",
+        "description": "Reintentar Entrega",
+        "subStatus": []
+    },
+    {
+        "id": 52,
+        "code": "12",
+        "description": "Rechazado",
+        "subStatus": [
+            {
+                "id": 59,
+                "code": "32",
+                "description": "Motivo Sistema",
+                "subStatusId": 52
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "code": "14",
+        "description": "Recogido",
+        "subStatus": []
+    },
+    {
+        "id": 54,
+        "code": "16",
+        "description": "En tránsito",
+        "subStatus": [
+            {
+                "id": 60,
+                "code": "9002",
+                "description": "En ruta a destino",
+                "subStatusId": 54
+            },
+            {
+                "id": 61,
+                "code": "9003",
+                "description": "Asignado en vehículo",
+                "subStatusId": 54
+            },
+            {
+                "id": 62,
+                "code": "9004",
+                "description": "Llegó a destino",
+                "subStatusId": 54
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "code": "17",
+        "description": "En cliente",
+        "subStatus": []
+    },
+    {
+        "id": 56,
+        "code": "18",
+        "description": "En picking",
+        "subStatus": [
+            {
+                "id": 63,
+                "code": "64",
+                "description": "Picking aceptado",
+                "subStatusId": 56
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "code": "09",
+        "description": "Recogido",
+        "subStatus": []
+    },
+    {
+        "id": 82,
+        "code": "1001",
+        "description": "Estado Desconocido",
+        "subStatus": []
+    },
+    {
+        "id": 83,
+        "code": "998",
+        "description": "Facturado",
+        "subStatus": []
+    },
+    {
+        "id": 6,
+        "code": "08",
+        "description": "En Tránsito",
+        "subStatus": [
+            {
+                "id": 80,
+                "code": "9004",
+                "description": "Llegó a destino",
+                "subStatusId": 6
+            },
+            {
+                "id": 84,
+                "code": "9003",
+                "description": "Asignado en vehículo",
+                "subStatusId": 6
+            },
+            {
+                "id": 15,
+                "code": "9000",
+                "description": "Ruta troncal",
+                "subStatusId": 6
+            },
+            {
+                "id": 86,
+                "code": "9006",
+                "description": "Listo para Recoger",
+                "subStatusId": 6
+            },
+            {
+                "id": 64,
+                "code": "80",
+                "description": "Previo a entrega",
+                "subStatusId": 6
+            },
+            {
+                "id": 81,
+                "code": "9005",
+                "description": "En Ruta a Recoger",
+                "subStatusId": 6
+            },
+            {
+                "id": 91,
+                "code": "9007",
+                "description": "Asignado en vehículo",
+                "subStatusId": 6
+            },
+            {
+                "id": 16,
+                "code": "9001",
+                "description": "Gestionado CT",
+                "subStatusId": 6
+            },
+            {
+                "id": 14,
+                "code": "9002",
+                "description": "En ruta a destino",
+                "subStatusId": 6
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "code": "03",
+        "description": "No Entregado",
+        "subStatus": [
+            {
+                "id": 18,
+                "code": "51",
+                "description": "Expectativa",
+                "subStatusId": 7
+            },
+            {
+                "id": 21,
+                "code": "55",
+                "description": "Nota De Credito",
+                "subStatusId": 7
+            },
+            {
+                "id": 22,
+                "code": "92",
+                "description": "Problemas en la dirección Definitivo",
+                "subStatusId": 7
+            },
+            {
+                "id": 23,
+                "code": "93",
+                "description": "Cliente No Esta Definitivo",
+                "subStatusId": 7
+            },
+            {
+                "id": 24,
+                "code": "930",
+                "description": "Motivos Cliente Definitivo",
+                "subStatusId": 7
+            },
+            {
+                "id": 25,
+                "code": "96",
+                "description": "Motivos Transporte Definitivo",
+                "subStatusId": 7
+            },
+            {
+                "id": 30,
+                "code": "02",
+                "description": "Problemas en la dirección (Reintentable)",
+                "subStatusId": 7
+            },
+            {
+                "id": 89,
+                "code": "05",
+                "description": "Problema producto",
+                "subStatusId": 7
+            },
+            {
+                "id": 90,
+                "code": "94",
+                "description": "Problema producto definitivo",
+                "subStatusId": 7
+            },
+            {
+                "id": 28,
+                "code": "06",
+                "description": "Motivo Transporte (Reintentable)",
+                "subStatusId": 7
+            },
+            {
+                "id": 17,
+                "code": "30",
+                "description": "Motivo Cliente (Reintentable)",
+                "subStatusId": 7
+            },
+            {
+                "id": 29,
+                "code": "03",
+                "description": "Cliente No Está (Reintentable)",
+                "subStatusId": 7
+            },
+            {
+                "id": 20,
+                "code": "53",
+                "description": "Producto No Corresponde",
+                "subStatusId": 7
+            },
+            {
+                "id": 19,
+                "code": "52",
+                "description": "Daño Producto",
+                "subStatusId": 7
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "code": "19",
+        "description": "Conductor en Origen",
+        "subStatus": []
+    },
+    {
+        "id": 87,
+        "code": "1002",
+        "description": "Cancelado",
+        "subStatus": []
+    },
+    {
+        "id": 88,
+        "code": "20",
+        "description": "Recibido en Tienda",
+        "subStatus": []
+    },
+    {
+        "id": 3,
+        "code": "04",
+        "description": "Entregado Parcial",
+        "subStatus": []
+    },
+    {
+        "id": 4,
+        "code": "02",
+        "description": "Entregado",
+        "subStatus": [
+            {
+                "id": 27,
+                "code": "41",
+                "description": "En Expedicion",
+                "subStatusId": 4
+            },
+            {
+                "id": 31,
+                "code": "01",
+                "description": "Entregado a Domicilio",
+                "subStatusId": 4
+            },
+            {
+                "id": 26,
+                "code": "61",
+                "description": "En Cliente",
+                "subStatusId": 4
+            }
+        ]
+    }
+]

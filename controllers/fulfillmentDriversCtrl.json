@@ -1,0 +1,5270 @@
+{
+    "data": [
+        {
+            "id": "b73bb163-911f-424d-a25d-fafd0baeb8e4",
+            "name": "Veronica",
+            "lastName": "Castro Silva",
+            "fullName": "Veronica Castro Silva",
+            "phone": "+56923918256",
+            "email": "vero131982@gmail.com",
+            "documentNumber": "14174983-8",
+            "birthdate": null,
+            "firestoreToken": "e-RN90O5QDWIlZWJTFXvIZ:APA91bHMBySVp7TOJK6t2lUY3e-9sm0P7ZPoRZgWqgXWNpjag4n8yUedRcPMARsW5gejUwMKBYaHZC120T6eEMh_SdAlI1SQUCRLobSOTedkFRbAVEkOFJDyVMZPk4jB8_oylCOniMLb",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-07-23T21:50:55.452Z",
+            "updatedAt": "2024-10-25T19:07:55.956Z",
+            "createdBy": "angelpatricio.peraltasanz@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 90,
+                    "code": "J521",
+                    "name": "JUMBO LA SERENA",
+                    "lat": -29.91578539287463,
+                    "long": -71.25837702324654,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 164,
+                    "code": "N658",
+                    "name": "SANTA ISABEL LA HERRADURA",
+                    "lat": -29.97824,
+                    "long": -71.34586,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 15,
+                    "code": "E521",
+                    "name": "EASY LA SERENA",
+                    "lat": -29.9164967947533,
+                    "long": -71.2595772432566,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 55,
+                    "code": "21",
+                    "name": "PARIS LA SERENA",
+                    "lat": -29.9137954844162,
+                    "long": -71.2590012447116,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 18122,
+                "licencePlate": "KDSS-46",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "d95eb270-9035-4698-be67-2d506ba96262",
+            "name": "Hernan",
+            "lastName": "Franco Cabrera",
+            "fullName": "Hernan Franco Cabrera",
+            "phone": "+56965930284",
+            "email": "hernanfranco123@gmail.com",
+            "documentNumber": "26.248.935-3",
+            "birthdate": null,
+            "firestoreToken": "e4-cTUlKQYev1M96i4d42q:APA91bFkqZQyQRWITttnbHEzdrc9FLujXM1gNlBINlyoEWWdzwlr_x9og6OPgs5uucdfnntQh2JwpvnI9k4R_PJLM2OkM8iLrAs8C9gFEat_L1AO9eaRklysMbbUqcnHY467QPbpBcFm",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861674585,
+                        "externalId": "J502",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-08-23T00:25:33.628Z",
+            "updatedAt": "2024-10-25T19:07:55.127Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 112,
+                    "code": "J502",
+                    "name": "DARKSTORE KENNEDY",
+                    "lat": -33.39157914850497,
+                    "long": -70.545955089287,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 104,
+                    "code": "J513",
+                    "name": "JUMBO EL LLANO",
+                    "lat": -33.485683470789425,
+                    "long": -70.65153734683788,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 19412,
+                "licencePlate": "SXGS36",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "f1d9330e-9875-417b-a115-4f733a2c22ac",
+            "name": "ANA",
+            "lastName": "SOTO ORTEGA",
+            "fullName": "ANA SOTO ORTEGA",
+            "phone": "+5656971036583",
+            "email": "ksotoortega1@gmail.com",
+            "documentNumber": "15338495-9",
+            "birthdate": null,
+            "firestoreToken": "dN7lvVV2SYW_TACYqw9Dkv:APA91bHfFFzTCtAany4TZX_y_w72vZKhgVnL7S4HYJGj-YmD2lJt_gcPnantPsN_HvsySnf6SUz1XRda0TcNayTyRTWKgNwKZ7-7908sJfJGGQzdsA0nhFT26Dnlro2WdaOCVTQ6uXrm",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861645815,
+                        "externalId": "J410",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-09-10T18:50:28.136Z",
+            "updatedAt": "2024-10-25T19:07:54.003Z",
+            "createdBy": "mariapaz.zamorasuazo@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 336,
+                    "code": "J410",
+                    "name": "DARKSTORE FLORIDA",
+                    "lat": -33.50953432254535,
+                    "long": -70.60803414498905,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 20400,
+                "licencePlate": "KOWSKI-RRWX27",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 18,
+                "name": "Kowski Chile"
+            }
+        },
+        {
+            "id": "19d75d0a-1e05-4537-bd83-030d49af5a3e",
+            "name": "Cristian",
+            "lastName": "Fuentes Espinoza",
+            "fullName": "Cristian Fuentes Espinoza",
+            "phone": "+56988228214",
+            "email": "cristian.r.f.e@gmail.com",
+            "documentNumber": "10.306.245-4",
+            "birthdate": null,
+            "firestoreToken": "eciie6gSRragYkiTYqYJnf:APA91bGUeNdjT3oZX1UUCOEkWjqOiOe_wheDVvkN8FFa1-sqMZmPDCeF42r-6Fb17SJdO_GbIR8I6xRIuhmXZdh6vzJw_7z2V8SqUn__MrmVvI9gA8Bnm2C-dHGU93tARyvUfWNuK4UP",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-06-12T09:01:44.591Z",
+            "updatedAt": "2024-10-25T19:07:53.882Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 113,
+                    "code": "J511",
+                    "name": "JUMBO COSTANERA",
+                    "lat": -33.41789950208208,
+                    "long": -70.60650736230298,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 104,
+                    "code": "J513",
+                    "name": "JUMBO EL LLANO",
+                    "lat": -33.485683470789425,
+                    "long": -70.65153734683788,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 112,
+                    "code": "J502",
+                    "name": "DARKSTORE KENNEDY",
+                    "lat": -33.39157914850497,
+                    "long": -70.545955089287,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 16357,
+                "licencePlate": "RGLZ91",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "069d4e83-9b7b-41b1-bcd9-68fe4428e720",
+            "name": "Jose",
+            "lastName": "Gonzalez",
+            "fullName": "Jose Gonzalez",
+            "phone": "+56988989250",
+            "email": "elinadaniel.gonzalez@gmail.com",
+            "documentNumber": "27.071.482-K",
+            "birthdate": null,
+            "firestoreToken": "cEBstlinROK9jPadibhlid:APA91bHoK1VCkfohEByPbwfsqRjIXpPLNL-3oZCv0TCY204auenTe8RKZSaXo9ka4ovZtGQX0_vJ6RCiWKuu3sZjrhK5XLR1zaG-cYG31UWqFdqRVZ6q9fiE5FuyYJu6Vtmx5xBoAkVL",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-20T14:29:36.023Z",
+            "updatedAt": "2024-10-25T19:07:53.587Z",
+            "createdBy": "cesar.flores@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 153,
+                    "code": "N907",
+                    "name": "SANTA ISABEL LAS PALMAS",
+                    "lat": -36.921060299698894,
+                    "long": -73.02692234445573,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 285,
+                    "code": "N778",
+                    "name": "SANTA ISABEL SAN PEDRO DE LA PAZ",
+                    "lat": -36.84244826135513,
+                    "long": -73.09314887126583,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 26,
+                    "code": "E633",
+                    "name": "EASY CONCEPCION ALLESSANDRI",
+                    "lat": -36.8076812790596,
+                    "long": -73.0891026448741,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 37,
+                    "code": "E990",
+                    "name": "EASY CHIGUAYANTE",
+                    "lat": -36.9303575071933,
+                    "long": -73.0212092258317,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 131,
+                    "code": "J633",
+                    "name": "JUMBO CONCE. HUALPEN",
+                    "lat": -36.80578063021592,
+                    "long": -73.08987604139661,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 160,
+                    "code": "N678",
+                    "name": "SANTA ISABEL VEGA MONUMENTAL",
+                    "lat": -36.80823994049947,
+                    "long": -73.0780127160553,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 158,
+                    "code": "N783",
+                    "name": "SANTA ISABEL LOMAS DE SAN ANDRÉS",
+                    "lat": -36.789736654715185,
+                    "long": -73.06049477372673,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 7605,
+                "licencePlate": "RTSF93",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 3,
+                "name": "Claudio Moraga"
+            }
+        },
+        {
+            "id": "a7731342-6ec5-47b5-81dc-2b64c351fe9b",
+            "name": "Pablo",
+            "lastName": "Quilodran Cabello",
+            "fullName": "Pablo Quilodran Cabello",
+            "phone": "+56986632422",
+            "email": "quilodrancabellopablo@gmail.com",
+            "documentNumber": "9.489.957-5",
+            "birthdate": null,
+            "firestoreToken": "eeWa2liPR7q6dApeTNhyHk:APA91bGYT4Fg8ft2_BekLx-Yvlj0qrp8ggbhFOKefJMrWCBzX_EItYuoVIQgw-ZYCl-yp5-O8AtyZs6nPZoTmkF9lriZsRpica9yLBO5PzG7OqQqlcI050sUOcH7mhw-53D4HQAmCXvp",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729860692644,
+                        "externalId": "J843",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-08-20T04:29:28.662Z",
+            "updatedAt": "2024-10-25T19:07:53.408Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 127,
+                    "code": "J843",
+                    "name": "JUMBO SAN BERNARDO",
+                    "lat": -33.63383876812627,
+                    "long": -70.70984433588002,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 19228,
+                "licencePlate": "KFVJ32",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "135ae783-1989-4bee-8850-342542a1ef90",
+            "name": "LEONARDO",
+            "lastName": "CHACON GUICHARD",
+            "fullName": "LEONARDO CHACON GUICHARD",
+            "phone": "56982303273",
+            "email": "chaconychacon@gmail.com",
+            "documentNumber": "6778284-4",
+            "birthdate": null,
+            "firestoreToken": "cXI5Zw-BRhuyhuWkaAOlqH:APA91bHbCC2-eDZAZxV9dYresIuU_Rcln5qWI3uy-bLDj8t_zal27m4VyjXAIeNfzHHH-N6ROX32vWiz_2sdle8XgjL9exptoc7d86491IDPY7-qAlcHlxTaLqUd-qOMQGUVxJyZx7F3",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-14T18:59:25.291Z",
+            "updatedAt": "2024-10-25T19:07:52.398Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 123,
+                    "code": "J659",
+                    "name": "JUMBO CONCHA Y TORO",
+                    "lat": -33.57099055426189,
+                    "long": -70.58485723345716,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 7067,
+                "licencePlate": "DBKF36",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "464b025a-84a5-4c17-951e-d3cc44c34f4c",
+            "name": "JULIO",
+            "lastName": "CALDERON",
+            "fullName": "JULIO CALDERON",
+            "phone": "+56950859421",
+            "email": "juliocalde45@gmail.com",
+            "documentNumber": "19457331-6",
+            "birthdate": null,
+            "firestoreToken": "fWRA1t8IRBqx9UKj5j4DNK:APA91bFKqlgsQsqXVI2TmWSNGL09n8HVXxnIslLTazdceBn3_bjCdGHBZqB2WTGCSqHB0Y4zUBL72HLCaJ3jOfgmTZgb1DBziuuREIfsuqx7ZkMhvhb7hUEjuPcy7OjhKQS6jGu9Jf2q",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861664539,
+                        "externalId": "E775",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861664539,
+                        "externalId": "E512",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861664539,
+                        "externalId": "E655",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861664539,
+                        "externalId": "J512",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-02-04T15:45:49.411Z",
+            "updatedAt": "2024-10-25T19:07:51.759Z",
+            "createdBy": "diego.sanjuanespinoza@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 465,
+                    "code": "E775",
+                    "name": "EASY PORTAL ÑUÑOA",
+                    "lat": -33.4653571809683,
+                    "long": -70.5978250232539,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 9,
+                    "code": "E512",
+                    "name": "EASY LA REINA PADRE HURTADO",
+                    "lat": -33.4280678999318,
+                    "long": -70.5407857314981,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 29,
+                    "code": "E655",
+                    "name": "EASY QUILICURA",
+                    "lat": -33.3580923457041,
+                    "long": -70.7288717449941,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 105,
+                    "code": "J519",
+                    "name": "JUMBO PEÑALOLEN",
+                    "lat": -33.4880007150512,
+                    "long": -70.55668904314159,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 5397,
+                "licencePlate": "GJCZ23",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 3,
+                    "name": "PICKUP_TRUCK"
+                },
+                "propulsionType": {
+                    "id": 1,
+                    "name": "DIESEL"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 5
+            },
+            "provider": null
+        },
+        {
+            "id": "b71cb134-b937-4283-a290-2d349698e581",
+            "name": "Lister",
+            "lastName": "Mendez",
+            "fullName": "Lister Mendez",
+            "phone": "56991007115",
+            "email": "lister.mendezdiaz@gmail.com",
+            "documentNumber": "9.448.716-1",
+            "birthdate": "1963-12-30",
+            "firestoreToken": "djOVSv0IQ6eQ8Qc89iABnY:APA91bFWj_tgHgFxWUGokz0Ufh9BM-VpQSu53i7EnX-qpCkp5U5FcuKoxME7BiVhnAXZoG5UwNodJTb7lkMfHb-MF17DEAFF1xxBZJO4jG8LNWOVCRRzNCc1dkhKsRTZxW-OznOMKp6a",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2023-11-29T17:09:39.803Z",
+            "updatedAt": "2024-10-25T19:07:51.334Z",
+            "createdBy": "francisco.tellezcampos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 676,
+                    "code": "N548",
+                    "name": "SPID Rafael Sotomayor",
+                    "lat": -32.97072615094586,
+                    "long": -71.54239270264138,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 663,
+                    "code": "J508",
+                    "name": "SPID Viña del Mar",
+                    "lat": -33.035261841908586,
+                    "long": -71.52363019482517,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 1,
+                "name": "MALE"
+            },
+            "vehicle": {
+                "id": 1845,
+                "licencePlate": "RRDC96",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "24c0d4c1-68d7-493e-b2cf-228cfac65633",
+            "name": "JOBANY",
+            "lastName": "QUENAYANA",
+            "fullName": "JOBANY QUENAYANA",
+            "phone": "+56976761520",
+            "email": "qmedina2601@gmail.com",
+            "documentNumber": "24.835.888-2",
+            "birthdate": null,
+            "firestoreToken": "faBqoyErTK-YQgtreYHJK1:APA91bHEHtE6LzFHnphS_BWHneKpnx7yROCf49ouT_5rKlntlDg2jF3k9ybSNdIBU9InWmFeTp-zThp5I3Wu9NLKF3VxjitDIjXLa1JN-qrZ8o5kHnE3k9HmbtPU6uxxxSBpfzq44eSK",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861670295,
+                        "externalId": "J410",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-02-09T15:17:35.310Z",
+            "updatedAt": "2024-10-25T19:07:50.703Z",
+            "createdBy": "maryann.acuna@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 336,
+                    "code": "J410",
+                    "name": "DARKSTORE FLORIDA",
+                    "lat": -33.50953432254535,
+                    "long": -70.60803414498905,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 5970,
+                "licencePlate": "KOWSKI-KBTD69",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 18,
+                "name": "Kowski Chile"
+            }
+        },
+        {
+            "id": "f757c245-8a13-4850-97dd-9c895cfaf635",
+            "name": "Chrissaimer",
+            "lastName": "Blanco",
+            "fullName": "Chrissaimer Blanco",
+            "phone": "+56950616579",
+            "email": "chrisblanco56@gmail.com",
+            "documentNumber": "25.843.798-5",
+            "birthdate": null,
+            "firestoreToken": "c5uHMvOCSoyB1BaUmZpMzl:APA91bHwDtbEx3YXYpyWxdcGHEvAWfO0nvAMJspXQFPiW4750y7E5MCoOdYGeBvuGzkzES5utXn0zW_6s7CxhevVoEr6P7YQV76tsFFSL4M3UN5uu-nuqgwG-5cBUYluvq_iZakQqORb",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-20T14:53:15.290Z",
+            "updatedAt": "2024-10-25T19:07:49.478Z",
+            "createdBy": "cesar.flores@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.46",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 37,
+                    "code": "E990",
+                    "name": "EASY CHIGUAYANTE",
+                    "lat": -36.9303575071933,
+                    "long": -73.0212092258317,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 54,
+                    "code": "17",
+                    "name": "PARIS BARROS ARANA",
+                    "lat": -36.82495470591843,
+                    "long": -73.04777163137979,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 53,
+                    "code": "16",
+                    "name": "PARIS PLAZA TREBOL",
+                    "lat": -36.79062246836476,
+                    "long": -73.06650585836833,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 26,
+                    "code": "E633",
+                    "name": "EASY CONCEPCION ALLESSANDRI",
+                    "lat": -36.8076812790596,
+                    "long": -73.0891026448741,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 131,
+                    "code": "J633",
+                    "name": "JUMBO CONCE. HUALPEN",
+                    "lat": -36.80578063021592,
+                    "long": -73.08987604139661,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 160,
+                    "code": "N678",
+                    "name": "SANTA ISABEL VEGA MONUMENTAL",
+                    "lat": -36.80823994049947,
+                    "long": -73.0780127160553,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 158,
+                    "code": "N783",
+                    "name": "SANTA ISABEL LOMAS DE SAN ANDRÉS",
+                    "lat": -36.789736654715185,
+                    "long": -73.06049477372673,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 153,
+                    "code": "N907",
+                    "name": "SANTA ISABEL LAS PALMAS",
+                    "lat": -36.921060299698894,
+                    "long": -73.02692234445573,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 285,
+                    "code": "N778",
+                    "name": "SANTA ISABEL SAN PEDRO DE LA PAZ",
+                    "lat": -36.84244826135513,
+                    "long": -73.09314887126583,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 7615,
+                "licencePlate": "RXHZ71",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 3,
+                "name": "Claudio Moraga"
+            }
+        },
+        {
+            "id": "3a5d2a01-04cb-4534-960d-f8b4e1e6060b",
+            "name": "Danko",
+            "lastName": "Basic zavala",
+            "fullName": "Danko Basic zavala",
+            "phone": "+56978099965",
+            "email": "dank.basicz@gmail.com",
+            "documentNumber": "19481759-2",
+            "birthdate": null,
+            "firestoreToken": "ewJnTK0URBS1ZDxlVLCPhE:APA91bFddD0mynUL1jcyJsDC9QVu22wx8yfXx4zDlt5jiiEkXIfm56dzlOWSNVlwqagR53jmm_gf_C8zqBk0YjXinBFJR_iIt8dFbb0Tw4HcrA2QwPcubTnwmCwOKpErA4gYb1c4OX6V",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861667080,
+                        "externalId": "J512",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-07-09T23:46:42.012Z",
+            "updatedAt": "2024-10-25T19:07:46.890Z",
+            "createdBy": "javiera.mirandamunoz@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 17569,
+                "licencePlate": "RLGB32",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "0ec52b02-7379-404c-b39f-cefc05b455e2",
+            "name": "Gustavo",
+            "lastName": "Escobar Morales",
+            "fullName": "Gustavo Escobar Morales",
+            "phone": "+56957331628",
+            "email": "gaem1971@gmail.com",
+            "documentNumber": "11.834.156-2",
+            "birthdate": null,
+            "firestoreToken": "fFx5GGrmRgqZIoxXBXrAqb:APA91bGNOg628rYhfy4wIId-I-q5RnSlSpWB32cl9vBLQV2tZ65ZsKEVnFJcNsCxaGONbGwUaCiFL3FS7fWmuxgc_zWG2EZ_LchzkQQv-4so0DCal3-_V0D8BDuMNV8dng8qKXg7WyEF",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861665634,
+                        "externalId": "J403",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-07-17T04:46:28.377Z",
+            "updatedAt": "2024-10-25T19:07:46.460Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 805,
+                    "code": "J403",
+                    "name": "DARKSTORE MAIPU",
+                    "lat": -33.47988379382734,
+                    "long": -70.75157908800772,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 17840,
+                "licencePlate": "HCCH85",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "65ec27f4-d2e5-409d-9a0a-ab2ff46e0191",
+            "name": "Jorge Andrés",
+            "lastName": "Cisterna Vega",
+            "fullName": "Jorge Andrés Cisterna Vega",
+            "phone": "56984038672",
+            "email": "jorge.cisterna1981@gmail.com",
+            "documentNumber": "14.202.801-8",
+            "birthdate": null,
+            "firestoreToken": "eyemwawjQMGxsVl-mga9iG:APA91bGIemxB4TujR4vudGH2tcIN7Q8FS_uQ8UJ5zL4aSIkDSl6HBnNF978EZvydJFDbRBeyJMATmkYrlmUhmvbRu6FaCSsCo-Sl2W8UndjZvVTAYPhv7RPIT_lneQaB9LJfV81cv51t",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861307921,
+                        "externalId": "E513",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861307921,
+                        "externalId": "J513",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-01-22T23:03:59.525Z",
+            "updatedAt": "2024-10-25T19:07:45.928Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 10,
+                    "code": "E513",
+                    "name": "EASY EL LLANO SUBERCASEAUX",
+                    "lat": -33.4853989220591,
+                    "long": -70.6514615008126,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 104,
+                    "code": "J513",
+                    "name": "JUMBO EL LLANO",
+                    "lat": -33.485683470789425,
+                    "long": -70.65153734683788,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 3552,
+                "licencePlate": "HRRC45",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "e8072bb0-ed9c-49d1-8d26-6b5bdb34456e",
+            "name": "Roberto Mauricio",
+            "lastName": "Morales Jara",
+            "fullName": "Roberto Mauricio Morales Jara",
+            "phone": "965631658",
+            "email": "rober.licanray@gmail.com",
+            "documentNumber": "13944593-7",
+            "birthdate": "1980-08-06",
+            "firestoreToken": "de0_XY9tS4e30YewXszG46:APA91bH-qVlPgGMy2HGnLxrRS4hvENHgOZlnt4B5r5TBbKOxYOXd063_PoBWAl_vu5sIBJqAKyIX7QrULfB9GWRPFr04Yz4_m7-cwiWi8VV8H_mCnlrPrTPR7NQD1R2fnuPc8bWX13pz",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2023-10-24T16:56:30.071Z",
+            "updatedAt": "2024-10-25T19:07:45.145Z",
+            "createdBy": "cesar.flores@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 121,
+                    "code": "J504",
+                    "name": "JUMBO RANCAGUA",
+                    "lat": -34.18498788112307,
+                    "long": -70.72425027061564,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 3,
+                    "code": "E504",
+                    "name": "EASY RANCAGUA",
+                    "lat": -34.1864569549624,
+                    "long": -70.7250122566117,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 40,
+                    "code": "40",
+                    "name": "PARIS PORTAL RANCAGUA ",
+                    "lat": -34.18552300388622,
+                    "long": -70.7251784738016,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 1,
+                "name": "MALE"
+            },
+            "vehicle": {
+                "id": 631,
+                "licencePlate": "WB1100",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 3,
+                    "name": "PICKUP_TRUCK"
+                },
+                "propulsionType": {
+                    "id": 1,
+                    "name": "DIESEL"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "29b93bcf-9e91-44e6-baee-828dc3e3738b",
+            "name": "Raúl Eduardo Alexis",
+            "lastName": "Meza gaillard",
+            "fullName": "Raúl Eduardo Alexis Meza gaillard",
+            "phone": "+56927592741",
+            "email": "mezagaillard@gmail.com",
+            "documentNumber": "16.385.992-0",
+            "birthdate": null,
+            "firestoreToken": "d025_FW-S3WTwNzdsmPLrM:APA91bEizMBuu_nObR0MVZrKdxFg-W_IFsiPUaXG-_UrSdz4ebRPO2E3KR2_-LZeUQaNWww-Bp0kkTFS69_31YlB_PIPaw-Ck_SipzH6mwecuBJb5YA84LU",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-10-14T21:58:55.191Z",
+            "updatedAt": "2024-10-25T19:07:43.752Z",
+            "createdBy": "danilo.montealegrezapata@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 1236,
+                    "code": "N859",
+                    "name": "SISA Melipilla",
+                    "lat": -33.67868573734827,
+                    "long": -71.18585169187564,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 21593,
+                "licencePlate": "RPHE85",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 1,
+                    "name": "TRUCK"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 8,
+                "name": "Touch Chile"
+            }
+        },
+        {
+            "id": "5d7ce756-8e88-475c-89fc-c19a2f44d4c6",
+            "name": "Victor",
+            "lastName": "Camilla Gonzalez",
+            "fullName": "Victor Camilla Gonzalez",
+            "phone": "+56987431110",
+            "email": "victorcamillag@gmail.com",
+            "documentNumber": "13.778.140-9",
+            "birthdate": null,
+            "firestoreToken": "c_TIGSEZTBqarMfa1i16L-:APA91bFFOglp-YeN3NZXYhbmnNix4aI4zFVU92n_CQeRvZEmrncLn-yXFeEdCEAT_SZ8p7AkIj48lLnlGgFPhjscZYNmkbBsR3486CK5y10_bk7r5g2zA9VKpdhKfWTD61yDtiiPgXN4",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861661320,
+                        "externalId": "J843",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-08-29T22:01:44.004Z",
+            "updatedAt": "2024-10-25T19:07:42.603Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 127,
+                    "code": "J843",
+                    "name": "JUMBO SAN BERNARDO",
+                    "lat": -33.63383876812627,
+                    "long": -70.70984433588002,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 19720,
+                "licencePlate": "SFZV95",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "23a703c8-40a2-4629-9605-b6fcc73083ae",
+            "name": "ARTURO FRANCISCO",
+            "lastName": "PIZARRO LOPEZ",
+            "fullName": "ARTURO FRANCISCO PIZARRO LOPEZ",
+            "phone": "+56966748064",
+            "email": "apl.arpilo@gmail.com",
+            "documentNumber": "14129840-2",
+            "birthdate": null,
+            "firestoreToken": "c180QLU0Q9iz3MsOkVYS5B:APA91bHvdpdqj6s4FHfrIvIGmERWnT0uGhp-zsQQbAqnl3Ys8LWB2nZmY3oQcHxJ2t5okBp31ZCTVG2njNVENN1vbqY_di6pTx9wUictkmNKTiRXVytFR5_-I_vpxZsAaY91X68TCssI",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-01-27T16:39:19.345Z",
+            "updatedAt": "2024-10-25T19:07:42.257Z",
+            "createdBy": "diego.sanjuanespinoza@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 29,
+                    "code": "E655",
+                    "name": "EASY QUILICURA",
+                    "lat": -33.3580923457041,
+                    "long": -70.7288717449941,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 58,
+                    "code": "37",
+                    "name": "PARIS PLAZA NORTE ",
+                    "lat": -33.364689272139955,
+                    "long": -70.67961124314583,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 110,
+                    "code": "J989",
+                    "name": "JUMBO INDEPENDENCIA",
+                    "lat": -33.42376401681683,
+                    "long": -70.6536079,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 629,
+                    "code": "J989",
+                    "name": "SPID INDEPENDENCIA",
+                    "lat": -33.42468,
+                    "long": -70.65472,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 206,
+                    "code": "N651",
+                    "name": "SISA Valle Grande",
+                    "lat": -33.3246122,
+                    "long": -70.7466604,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 4971,
+                "licencePlate": "DYGB23",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "56c160b3-1945-48ef-8063-db0aafdfd8f5",
+            "name": "LUIS",
+            "lastName": "RIQUELME RUIZ",
+            "fullName": "LUIS RIQUELME RUIZ",
+            "phone": "+56940710168",
+            "email": "riquelmeluis.2031@gmail.com",
+            "documentNumber": "10525322-2",
+            "birthdate": null,
+            "firestoreToken": "f68Q4jMxQfGPJfAjxSDsRH:APA91bEMB2nPORBIxrSYQxp-tE1vAw1LfFjK5xZ-JekqaY5Sb__5WH7QqE4M2wez_e4wGAMCB2wUWOmPKx5k_ryubiwdb16WcbkZydPUKMvupJmMB5SdcMjjCA1NVJ_fGqVnenIuFYbW",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-03-18T18:40:02.281Z",
+            "updatedAt": "2024-10-25T19:07:42.106Z",
+            "createdBy": "josejose.gutierrez@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 1165,
+                    "code": "419",
+                    "name": "PARIS VALDIVIA",
+                    "lat": -39.8138985137228,
+                    "long": -73.244330002796,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 142,
+                    "code": "J955",
+                    "name": "JUMBO VALDIVIA",
+                    "lat": -39.81839325793236,
+                    "long": -73.23459304868625,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 11792,
+                "licencePlate": "PBDX96",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 1,
+                    "name": "TRUCK"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 2,
+                "name": "Appelt"
+            }
+        },
+        {
+            "id": "faedfa2c-f6e8-4bd0-b12c-18430909fd62",
+            "name": "Andres",
+            "lastName": "Wodehouse Canales",
+            "fullName": "Andres Wodehouse Canales",
+            "phone": "+56976874583",
+            "email": "coflax@hotmail.com",
+            "documentNumber": "7.772.249-1",
+            "birthdate": null,
+            "firestoreToken": "dLHJuOaXRW2qL-PAgzKvE6:APA91bHal33XBaoRQGAR9FhjZhjjZiLAXuclCxlWp0GhyrT2an2JcWdfSLiX70bR6NYeosWLMnZL4jkCJidprzGJ0ybNrD744qSHhrF6vjNIRiKSMiSwmiw2WDZaeQDeJ9aRIqGBN7Ab",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861661341,
+                        "externalId": "J502",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-05-06T19:51:42.610Z",
+            "updatedAt": "2024-10-25T19:07:41.904Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 112,
+                    "code": "J502",
+                    "name": "DARKSTORE KENNEDY",
+                    "lat": -33.39157914850497,
+                    "long": -70.545955089287,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 14314,
+                "licencePlate": "FTXV14",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "84b34d61-ee80-4a6f-8e08-71ad92cf8ad1",
+            "name": "Oriana",
+            "lastName": "Baez Perez",
+            "fullName": "Oriana Baez Perez",
+            "phone": "+56972793155",
+            "email": "baezo1106@gmail.com",
+            "documentNumber": "26.068.388-8",
+            "birthdate": null,
+            "firestoreToken": "f_868pO_RwiyhVSASEYCb7:APA91bH1w41-DogU4m5vsPFzBoa0wb5djDQVI5XUsHLxpX35t87Nha94p9Q_uD6D6OEfyeOjuz3WB9lxQHab6ep6jNo7RD_hF-7X-iPaMWl-uUhCRRUF9AWlKv3oNcs01Ibp9eTEl54m",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861660733,
+                        "externalId": "J410",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-02-26T22:28:32.699Z",
+            "updatedAt": "2024-10-25T19:07:41.902Z",
+            "createdBy": "leonardo.perez@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 336,
+                    "code": "J410",
+                    "name": "DARKSTORE FLORIDA",
+                    "lat": -33.50953432254535,
+                    "long": -70.60803414498905,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 15332,
+                "licencePlate": "KOWSKI-RXGK85",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 18,
+                "name": "Kowski Chile"
+            }
+        },
+        {
+            "id": "bd9820f4-99d6-4649-9bec-d339cfaabba6",
+            "name": "Victor",
+            "lastName": "Cabrera",
+            "fullName": "Victor Cabrera",
+            "phone": "+56975913804",
+            "email": "victor.bocasur.12@gmail.com",
+            "documentNumber": "20437948-3",
+            "birthdate": "2000-04-09",
+            "firestoreToken": "ekEM3-0ASvK0T-oBOlIbal:APA91bE0mhPYw1kLVh1jLGStFS3-f3lzxIadML7j_z-1WVcDoX-HPv1UOg6eGtpmSQLFvxFgbZKdDLKeWGctJBeVDaYemAGsUfrpgAhw1hIoPt0YpfNC_lbwOXDLXmGXOEP9THz7vCnt",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861660797,
+                        "externalId": "E633",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861660797,
+                        "externalId": "E990",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861660797,
+                        "externalId": "N678",
+                        "retailChainCode": "SISA_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2023-11-06T23:32:38.902Z",
+            "updatedAt": "2024-10-25T19:07:41.504Z",
+            "createdBy": "diego.comihual@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 667,
+                    "code": "N783",
+                    "name": "SPID LOMAS DE SAN ANDRES",
+                    "lat": -36.7904,
+                    "long": -73.06091,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 131,
+                    "code": "J633",
+                    "name": "JUMBO CONCE. HUALPEN",
+                    "lat": -36.80578063021592,
+                    "long": -73.08987604139661,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 37,
+                    "code": "E990",
+                    "name": "EASY CHIGUAYANTE",
+                    "lat": -36.9303575071933,
+                    "long": -73.0212092258317,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 160,
+                    "code": "N678",
+                    "name": "SANTA ISABEL VEGA MONUMENTAL",
+                    "lat": -36.80823994049947,
+                    "long": -73.0780127160553,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 285,
+                    "code": "N778",
+                    "name": "SANTA ISABEL SAN PEDRO DE LA PAZ",
+                    "lat": -36.84244826135513,
+                    "long": -73.09314887126583,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 675,
+                    "code": "N801",
+                    "name": "SPID COLLAO",
+                    "lat": -36.81857,
+                    "long": -73.02392,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 26,
+                    "code": "E633",
+                    "name": "EASY CONCEPCION ALLESSANDRI",
+                    "lat": -36.8076812790596,
+                    "long": -73.0891026448741,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 673,
+                    "code": "N778",
+                    "name": "SPID SAN PEDRO DE LA PAZ",
+                    "lat": -36.84215,
+                    "long": -73.09329,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 158,
+                    "code": "N783",
+                    "name": "SANTA ISABEL LOMAS DE SAN ANDRÉS",
+                    "lat": -36.789736654715185,
+                    "long": -73.06049477372673,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 1,
+                "name": "MALE"
+            },
+            "vehicle": {
+                "id": 1001,
+                "licencePlate": "HBLX48",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 3,
+                "name": "Claudio Moraga"
+            }
+        },
+        {
+            "id": "de1073fe-5c0f-40c3-8440-c552ecc1f84e",
+            "name": "DAYANA LISBETH",
+            "lastName": "CLEMENTE SEQUERA",
+            "fullName": "DAYANA LISBETH CLEMENTE SEQUERA",
+            "phone": "56988236468",
+            "email": "dayaclemente4@gmail.com",
+            "documentNumber": "27129589-8",
+            "birthdate": null,
+            "firestoreToken": "e3v-DdqgTQ67HnsCf1yG9c:APA91bEBfxEA2fCZWSmqxYoqOmdje-wLYfB3rBgfExb_pQR8LxxhGHdHXp5GFybXtCoa-zED92UffRoNDMjyDotcYG-k8qQV5C7bHsVTGxhli0vTRm7WBinJLvQpLu7MMahvyBXFawHZ",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-14T17:23:17.028Z",
+            "updatedAt": "2024-10-25T19:07:41.173Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 123,
+                    "code": "J659",
+                    "name": "JUMBO CONCHA Y TORO",
+                    "lat": -33.57099055426189,
+                    "long": -70.58485723345716,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 6209,
+                "licencePlate": "SDHJ88",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "89fc4761-adaf-4159-88a0-6a8a129939ed",
+            "name": "leoidy",
+            "lastName": "reina",
+            "fullName": "leoidy reina",
+            "phone": "+56985894066",
+            "email": "leoidyr@gmail.com",
+            "documentNumber": "273572740",
+            "birthdate": null,
+            "firestoreToken": "eDH2FwU8SLahYYIixkSM_H:APA91bEAsahfROJy5mJFUWNQHUhpovH8hB-qut5_t5_x1aN5V5SGHtVNC3Yx8XQiyIRtwFLuS7nHwPdhvqE3Z8q1L-FVArhtPFaG9_WCrkzQzSGbNsyESqGxKWnSA4el4KKjfcLK7PSs",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-09-06T22:29:02.665Z",
+            "updatedAt": "2024-10-25T19:07:40.500Z",
+            "createdBy": "catalina.sepulvedamoyano@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 110,
+                    "code": "J989",
+                    "name": "JUMBO INDEPENDENCIA",
+                    "lat": -33.42376401681683,
+                    "long": -70.6536079,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 20203,
+                "licencePlate": "VTV38",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 7,
+                    "name": "MOTORCYCLE"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "2bacb162-6ea0-4c54-a9f6-fb7c369bcfbf",
+            "name": "Jordana",
+            "lastName": "Becerra",
+            "fullName": "Jordana Becerra",
+            "phone": "+56981917859",
+            "email": "jordana.becerra@gmail.com",
+            "documentNumber": "18.062.405-8",
+            "birthdate": null,
+            "firestoreToken": "ep51IsIxRYiI_-8LtiAW3t:APA91bEt_TonqaWA_MG9Z5bPvCJ-5l1qKIdOdPwccNGp9DE5UORfVqrDifp7V_j22RS1g93O2lGzXjSfc0iM4HS-cQgMM63yjXZ2quTit3S436-stqK-xR1Apo4hZ7EWyAZN6eObmtsi",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-06-20T08:08:22.845Z",
+            "updatedAt": "2024-10-25T19:07:39.662Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 223,
+                    "code": "N758",
+                    "name": "SISA Maipu 3 Poniente",
+                    "lat": -33.50430403483458,
+                    "long": -70.78020357510434,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 689,
+                    "code": "N758",
+                    "name": "SPID Maipu 3 Poniente",
+                    "lat": -33.50430403483458,
+                    "long": -70.78020357510434,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 805,
+                    "code": "J403",
+                    "name": "DARKSTORE MAIPU",
+                    "lat": -33.47988379382734,
+                    "long": -70.75157908800772,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 16718,
+                "licencePlate": "BOOS-GZLD32",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "a226298c-5e12-4a6d-b768-a7ec4c285359",
+            "name": "RAUL",
+            "lastName": "ESCOBAR GUTIERREZ",
+            "fullName": "RAUL ESCOBAR GUTIERREZ",
+            "phone": "+56935707243",
+            "email": "topoalejandro.escobar@gmail.com",
+            "documentNumber": "15503501-3",
+            "birthdate": null,
+            "firestoreToken": "dPy2uOh5RDmrh9RyQionCe:APA91bG7w3n_AsK3BJRC6xbKKQetBzprPUU_y8P5oBOcd1hgSRLKUlsMuOzYlE55wxvr90-U1hG6JU5GVMzNi1lFUZ1UE9A217tNhKY5kz_4MWvAnMcUz8RRClTvaveCPLVrIvgBpgMp",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-05-18T09:57:47.058Z",
+            "updatedAt": "2024-10-25T19:07:38.138Z",
+            "createdBy": "josejose.gutierrez@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 712,
+                    "code": "130",
+                    "name": "DARK STORE PARIS TEMUCO",
+                    "lat": -33.44659309042839,
+                    "long": -70.63278241078521,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 4,
+                    "code": "E506",
+                    "name": "EASY PORTAL TEMUCO",
+                    "lat": -38.7463961880214,
+                    "long": -72.607300931309,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 51,
+                    "code": "87",
+                    "name": "PARIS TEMUCO CENTRO (PRAT)",
+                    "lat": -38.73804340671072,
+                    "long": -72.59064298898026,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 41,
+                    "code": "41",
+                    "name": "PARIS PORTAL TEMUCO",
+                    "lat": -38.73237159016015,
+                    "long": -72.61011578214524,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 137,
+                    "code": "J506",
+                    "name": "JUMBO TEMUCO",
+                    "lat": -38.73390232374777,
+                    "long": -72.61071322858885,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 1166,
+                    "code": "temucopabloneruda",
+                    "name": "SISA Temuco Pablo Neruda",
+                    "lat": -38.73864009,
+                    "long": -72.63181926,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 12,
+                    "code": "E517",
+                    "name": "EASY TEMUCO",
+                    "lat": -38.7463961880214,
+                    "long": -72.6071936429546,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 15111,
+                "licencePlate": "KGFK41",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 2,
+                "name": "Appelt"
+            }
+        },
+        {
+            "id": "44e693c6-a348-4bc6-b440-d8ef9ba1ef2c",
+            "name": "Christian",
+            "lastName": "Lanas",
+            "fullName": "Christian Lanas",
+            "phone": "+56944069150",
+            "email": "lanasc246@gmail.com",
+            "documentNumber": "7.686.347-4",
+            "birthdate": null,
+            "firestoreToken": "eLEqd2FNTaKF19TR-a_ab1:APA91bEWXhNwVnQ_rfsoKeVZB4fl2Uokl6uovkT6eiGXbbhHrrJnS2xi_196kvHq8IWa5SKeoEOAMF46nRycChl2EfrzrbbPZg_Vq4BX4HCg3niomphHXSGhVWqaxbROM1NRa5rjYVzb",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861655379,
+                        "externalId": "J502",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-05-31T23:15:55.385Z",
+            "updatedAt": "2024-10-25T19:07:37.236Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 113,
+                    "code": "J511",
+                    "name": "JUMBO COSTANERA",
+                    "lat": -33.41789950208208,
+                    "long": -70.60650736230298,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 112,
+                    "code": "J502",
+                    "name": "DARKSTORE KENNEDY",
+                    "lat": -33.39157914850497,
+                    "long": -70.545955089287,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 15895,
+                "licencePlate": "BOOS-PDGW86",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "9ee13b9f-0cdd-4a3a-98d3-fbe3502dad67",
+            "name": "Jose",
+            "lastName": "Mandioca gallardo",
+            "fullName": "Jose Mandioca gallardo",
+            "phone": "+56973256273",
+            "email": "jos.maitemandiola@gmail.com",
+            "documentNumber": "15.555.385-5",
+            "birthdate": null,
+            "firestoreToken": "f6HORjhBRieS3rmsAnOAb-:APA91bFWJvivbaD0_uN6qJS5vJL8rp8DrZvN8OXwN4BjT8Mgm43_iyxH71L34bWT7pEUbWkKSP93_g57GljCZammX_kgHlO2JLXAvCYEfJjRwfG-9meOpTeA9Pq8u4UM7a1HgeeZ7bbd",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-06-18T04:22:23.189Z",
+            "updatedAt": "2024-10-25T19:07:37.071Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 125,
+                    "code": "J780",
+                    "name": "JUMBO LOS ANDES",
+                    "lat": -32.82729757013456,
+                    "long": -70.60274120466512,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 308,
+                    "code": "N684",
+                    "name": "SISA Valdivia Chacabuco",
+                    "lat": -39.81365602533,
+                    "long": -73.24205829130103,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 16617,
+                "licencePlate": "GFGX11",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "d9aed0ec-250f-4e9e-a06d-72e54c22fce6",
+            "name": "ALEJANDRO",
+            "lastName": "SALAS VALDEBENITO",
+            "fullName": "ALEJANDRO SALAS VALDEBENITO",
+            "phone": "+56933267886",
+            "email": "alejandrosalasvalde2021@gmail.com",
+            "documentNumber": "16.192.929-8",
+            "birthdate": null,
+            "firestoreToken": "cBz82YjxTwKfZzIw-hgf_r:APA91bFOOtrLv6XZxxyo6FRKdD84GUuMJNDnB4hGYd5PHm2Y_NsOCMOs31fTiH2op80VGJccnSLIsv26mNt6TdmsdytESfqABJPyzUvfVPuwkhjgn0RFqv4",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861842551,
+                        "externalId": "E775",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861842551,
+                        "externalId": "E512",
+                        "retailChainCode": "EASY_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861842551,
+                        "externalId": "J775",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-01-30T18:04:12.270Z",
+            "updatedAt": "2024-10-25T19:07:36.803Z",
+            "createdBy": "renata.astorga@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 9,
+                    "code": "E512",
+                    "name": "EASY LA REINA PADRE HURTADO",
+                    "lat": -33.4280678999318,
+                    "long": -70.5407857314981,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 465,
+                    "code": "E775",
+                    "name": "EASY PORTAL ÑUÑOA",
+                    "lat": -33.4653571809683,
+                    "long": -70.5978250232539,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 110,
+                    "code": "J989",
+                    "name": "JUMBO INDEPENDENCIA",
+                    "lat": -33.42376401681683,
+                    "long": -70.6536079,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 5184,
+                "licencePlate": "KOWSKI-JKJV14",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "7ce61d4b-1fbb-4fbe-88b9-2e65c9261f18",
+            "name": "CLAUDIA",
+            "lastName": "SOISSA CRISTI",
+            "fullName": "CLAUDIA SOISSA CRISTI",
+            "phone": "56961207115",
+            "email": "soissa.claudia@gmail.com",
+            "documentNumber": "8650742-0",
+            "birthdate": null,
+            "firestoreToken": "dyGNKBf7QVqKJBOhKtye88:APA91bGiNzl6MZKoXveNV7cu-80HalH7hkTvG9BNYzKzCwCt2xioz4bpZ16IK3jKJr2ntZOF42eZSuf10Jz5eXQj8fpWFRab7ssm9x-IaoisnDNwBrxIUd2g25cRSIc0-wmx382O5JHh",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-14T17:23:17.028Z",
+            "updatedAt": "2024-10-25T19:07:36.618Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 123,
+                    "code": "J659",
+                    "name": "JUMBO CONCHA Y TORO",
+                    "lat": -33.57099055426189,
+                    "long": -70.58485723345716,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 6198,
+                "licencePlate": "FYKD97",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "77272222-7139-4783-a3df-f55776dd4e38",
+            "name": "Richard",
+            "lastName": "Sanchez",
+            "fullName": "Richard Sanchez",
+            "phone": "959045337",
+            "email": "richard401577@gmail.com",
+            "documentNumber": "25.698.186-6",
+            "birthdate": "1991-06-20",
+            "firestoreToken": "crMwWgMORqSm_DZqi2AA6l:APA91bHypM0aaKVwkhvdpfc5tisinWljn2k36SoSoZ33uGm2uQNRCTRnFJ5Ew3DVtSukZpu9SLGfZ0zhswvOdZ2_I9zv7zTxwqMslm5XRyctJMG7kv0XU7r0cn7qlJ7v3BWbVZNqYYor",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2023-10-20T17:51:27.069Z",
+            "updatedAt": "2024-10-25T19:07:35.875Z",
+            "createdBy": "ramiro.farias@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 1227,
+                    "code": "J411",
+                    "name": "DARKSTORE COSTANERA",
+                    "lat": -33.41789950208208,
+                    "long": -70.60650736230298,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 48,
+                    "code": "9",
+                    "name": "PARIS LYON",
+                    "lat": -33.42256975905567,
+                    "long": -70.60909957079495,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 336,
+                    "code": "J410",
+                    "name": "DARKSTORE FLORIDA",
+                    "lat": -33.50953432254535,
+                    "long": -70.60803414498905,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 8,
+                    "code": "E511",
+                    "name": "EASY COSTANERA",
+                    "lat": -33.4177362888212,
+                    "long": -70.6067179161567,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 50,
+                    "code": "88",
+                    "name": "PARIS PARQUE ARAUCO",
+                    "lat": -33.4019963327281,
+                    "long": -70.57827086033429,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 43,
+                    "code": "115",
+                    "name": "PARIS COSTANERA CENTER",
+                    "lat": -33.41867922556619,
+                    "long": -70.60588450266293,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 1,
+                "name": "MALE"
+            },
+            "vehicle": {
+                "id": 569,
+                "licencePlate": "KOWSKI-RKLK88",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 18,
+                "name": "Kowski Chile"
+            }
+        },
+        {
+            "id": "6fe1d218-cfb4-451f-a388-f005d4d30e42",
+            "name": "Bárbara",
+            "lastName": "Oyarzún Navarro",
+            "fullName": "Bárbara Oyarzún Navarro",
+            "phone": "56984535563",
+            "email": "boyarzunn@gmail.com",
+            "documentNumber": "15.080.179-6",
+            "birthdate": "1982-11-14",
+            "firestoreToken": "dfifJg_iR1WcdeoQf93ztY:APA91bGGS1mC9aPU0S_1STUnZRq3-tc9bbNTqcJj7SJqBOjPd6XsgObhHb3EYEXhhq5bCsfibOdFq7KJVg0pwNXRCLhWz8ZBM4ehSh8z57j1riieWGfeRCASAHPkkvJdyZdeILzE6J5w",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2023-11-29T18:48:21.654Z",
+            "updatedAt": "2024-10-25T19:07:35.669Z",
+            "createdBy": "elizabeth.medinapino@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 46,
+                    "code": "13",
+                    "name": "PARIS VALPARAISO",
+                    "lat": -33.04366513056,
+                    "long": -71.6045077143211,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 14,
+                    "code": "E520",
+                    "name": "EASY VALPARAISO",
+                    "lat": -33.0440051313584,
+                    "long": -71.6042515450045,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 676,
+                    "code": "N548",
+                    "name": "SPID Rafael Sotomayor",
+                    "lat": -32.97072615094586,
+                    "long": -71.54239270264138,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 663,
+                    "code": "J508",
+                    "name": "SPID Viña del Mar",
+                    "lat": -33.035261841908586,
+                    "long": -71.52363019482517,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 56,
+                    "code": "22",
+                    "name": "PARIS MARINA ARAUCO",
+                    "lat": -33.008712066246005,
+                    "long": -71.54811072966397,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 2,
+                "name": "FEMALE"
+            },
+            "vehicle": {
+                "id": 1831,
+                "licencePlate": "KRFV15",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "2bb45403-4b78-4160-a6d8-541021340244",
+            "name": "Christian",
+            "lastName": "Oyaneder Fuentes",
+            "fullName": "Christian Oyaneder Fuentes",
+            "phone": "+56968393601",
+            "email": "chris.oyaneder@gmail.com",
+            "documentNumber": "12.248.842-k",
+            "birthdate": null,
+            "firestoreToken": "fH9jUsybQ9mYorucXQZuk6:APA91bHwicJcg2myWJsZu7GyYqNj4k6ZEcGEGMDrWa_oYsAdehE2WlkStlDoLevBUGfl6YGgOon1G2TLfPMberGYl4B74o7_yuTSfigpl1vHYB2yteIOjgr5WuEvxPTAabiqeqYgmRIP",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861654785,
+                        "externalId": "J508",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-09-06T00:29:11.563Z",
+            "updatedAt": "2024-10-25T19:07:35.270Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 20117,
+                "licencePlate": "DVZV48",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "bc885760-f94d-45d2-b3ec-91a23a822bd0",
+            "name": "Patricia",
+            "lastName": "Aguilera",
+            "fullName": "Patricia Aguilera",
+            "phone": "56955807470",
+            "email": "patriciaaguilera415@gmail.com",
+            "documentNumber": "12.598.977-2",
+            "birthdate": "1974-06-09",
+            "firestoreToken": "fcQbENOeSM2YMbVVJ_LRHq:APA91bE2baqYGT77nz5wqzbH0BGkBBdqSHwMq05jEbykFCdNb7Hk6sXwwOGnpMeTad8J3e5f84t6xgFyD5R4IPKTeTA6h2H8l3DbPILwBWRY-Cxr1KEwykW2yy91FLs4D6xApf3G4jy8",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861655091,
+                        "externalId": "J508",
+                        "retailChainCode": "SPID_CL"
+                    }
+                },
+                {
+                    "knownSource": {
+                        "time": 1729861655091,
+                        "externalId": "J508",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2023-11-29T19:05:49.772Z",
+            "updatedAt": "2024-10-25T19:07:34.875Z",
+            "createdBy": "elizabeth.medinapino@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 676,
+                    "code": "N548",
+                    "name": "SPID Rafael Sotomayor",
+                    "lat": -32.97072615094586,
+                    "long": -71.54239270264138,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 329,
+                    "code": "N711",
+                    "name": "SANTA ISABEL AGUA SANTA",
+                    "lat": -33.052788357267644,
+                    "long": -71.5583621934975,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 663,
+                    "code": "J508",
+                    "name": "SPID Viña del Mar",
+                    "lat": -33.035261841908586,
+                    "long": -71.52363019482517,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 2,
+                "name": "FEMALE"
+            },
+            "vehicle": {
+                "id": 1840,
+                "licencePlate": "LKTD68",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "1724f0d0-b8dc-4582-bf6a-f7fbe6078e85",
+            "name": "MARIA TERESA",
+            "lastName": "LOPEZ VERA",
+            "fullName": "MARIA TERESA LOPEZ VERA",
+            "phone": "+56984500113",
+            "email": "mariateresalopezvera049@gmail.com",
+            "documentNumber": "6697316-6",
+            "birthdate": null,
+            "firestoreToken": "dtO2Po7MTxS0gW6iJ92_2s:APA91bGjk6mSvsAlkGD9wTcQReYpAet-DCuf7GEmN0F7J61EhxoidtKuYCg51YQ8sqgSnnwulTtbQCwnwUES7zp1ebplQzkXi8EK3N1uk5xZNYOqNJZ90aeQpT1abnYBSALivUv4EomL",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-04-10T22:03:22.003Z",
+            "updatedAt": "2024-10-25T19:07:33.325Z",
+            "createdBy": "maria.urbina@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 465,
+                    "code": "E775",
+                    "name": "EASY PORTAL ÑUÑOA",
+                    "lat": -33.4653571809683,
+                    "long": -70.5978250232539,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 105,
+                    "code": "J519",
+                    "name": "JUMBO PEÑALOLEN",
+                    "lat": -33.4880007150512,
+                    "long": -70.55668904314159,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 13142,
+                "licencePlate": "JJSZ53",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "227e1f66-e1df-4c0e-b3de-e19ac3202807",
+            "name": "Ana Maria",
+            "lastName": "Figueroa Robles",
+            "fullName": "Ana Maria Figueroa Robles",
+            "phone": "56954118105",
+            "email": "ani.figue@hotmail.com",
+            "documentNumber": "10.156.453-3",
+            "birthdate": null,
+            "firestoreToken": "eReV7_LzS3mpZEOcadsRlV:APA91bFeWJOZRKvW0kF3NlC9MGhz3egkJieKrdve6rqZYuQfOFUn0YM2foNZJkiGrBXzlxnG_yPpGzbj1xeS5MoHozAu-exnKD_DXHM0QpcqZPHEJvG6YGdt3Abb8sDIR9AkFeCZZrdG",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-01-29T22:30:58.150Z",
+            "updatedAt": "2024-10-25T19:07:33.185Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 336,
+                    "code": "J410",
+                    "name": "DARKSTORE FLORIDA",
+                    "lat": -33.50953432254535,
+                    "long": -70.60803414498905,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 105,
+                    "code": "J519",
+                    "name": "JUMBO PEÑALOLEN",
+                    "lat": -33.4880007150512,
+                    "long": -70.55668904314159,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 5069,
+                "licencePlate": "KXPP249",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "7ddf7d5b-114f-4af4-837a-5a338da43675",
+            "name": "Carlos",
+            "lastName": "Perez Retamal",
+            "fullName": "Carlos Perez Retamal",
+            "phone": "56993216771",
+            "email": "chelopr.61@gmail.com",
+            "documentNumber": "8.407.596-5",
+            "birthdate": null,
+            "firestoreToken": "d-it_y1yT4GdPnQI4GGJ8r:APA91bE7lVws0BWgFfI3kOCKuA0nV6XfELTZ-WSP3bI-PZtsQuYhh-WLfWmdE6CG5yGaqV5rzQF2jeLHF6qQ6NuAXUvPEdBlpp5nr1wKrxbvaSOe_uMUcW99xV9KlUipqBPW5PDRTFbx",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-01-22T22:22:59.446Z",
+            "updatedAt": "2024-10-25T19:07:32.983Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 800,
+                    "code": "J514",
+                    "name": "SPID JUMBO LA DEHESA",
+                    "lat": -33.356948976089896,
+                    "long": -70.5145018315004,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 83,
+                    "code": "424",
+                    "name": "PARIS EL LLANO",
+                    "lat": -33.48543391768594,
+                    "long": -70.65149621559723,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 10,
+                    "code": "E513",
+                    "name": "EASY EL LLANO SUBERCASEAUX",
+                    "lat": -33.4853989220591,
+                    "long": -70.6514615008126,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 705,
+                    "code": "O513",
+                    "name": "SPID El Llano Subercaseaux",
+                    "lat": -33.48592594041354,
+                    "long": -70.6516162036009,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 127,
+                    "code": "J843",
+                    "name": "JUMBO SAN BERNARDO",
+                    "lat": -33.63383876812627,
+                    "long": -70.70984433588002,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 104,
+                    "code": "J513",
+                    "name": "JUMBO EL LLANO",
+                    "lat": -33.485683470789425,
+                    "long": -70.65153734683788,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 805,
+                    "code": "J403",
+                    "name": "DARKSTORE MAIPU",
+                    "lat": -33.47988379382734,
+                    "long": -70.75157908800772,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 633,
+                    "code": "J513",
+                    "name": "SPID El Llano Subercaseaux",
+                    "lat": -33.4856522495159,
+                    "long": -70.6516714759114,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 3522,
+                "licencePlate": "WF3259",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "56f74abf-6a8e-49fc-b978-785c338df4b2",
+            "name": "Lucas Mauricio",
+            "lastName": "Yévenes Muñoz",
+            "fullName": "Lucas Mauricio Yévenes Muñoz",
+            "phone": "56977571106",
+            "email": "lucasyevenes96@gmail.com",
+            "documentNumber": "19.176.368-8",
+            "birthdate": "1996-05-16",
+            "firestoreToken": "ewO3AlnRQhiDbLdTYORUnO:APA91bEYsDQ6PQxp9qXH9NgsXApY_ErFf1MdvtYt5x_ByGKQyy85UhI-qvMMVGLoGzFXcfUKR5NJh7oWKmZAlgomKZfecz0wxeLwbAg_BRy8NXSpIiXhPMFAFdrQJiDy7jjWqhpvn9Oc",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2023-11-28T22:31:50.259Z",
+            "updatedAt": "2024-10-25T19:07:32.480Z",
+            "createdBy": "vanessaangelica.salinas@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 663,
+                    "code": "J508",
+                    "name": "SPID Viña del Mar",
+                    "lat": -33.035261841908586,
+                    "long": -71.52363019482517,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 676,
+                    "code": "N548",
+                    "name": "SPID Rafael Sotomayor",
+                    "lat": -32.97072615094586,
+                    "long": -71.54239270264138,
+                    "retailChain": {
+                        "id": 9,
+                        "code": "SPID_CL",
+                        "name": "Spid (Chile)"
+                    }
+                },
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": {
+                "id": 1,
+                "name": "MALE"
+            },
+            "vehicle": {
+                "id": 1653,
+                "licencePlate": "JZDX86",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "d56d98ba-8bbc-4de5-a044-def494c2610c",
+            "name": "Ana",
+            "lastName": "Gonzalez Donoso",
+            "fullName": "Ana Gonzalez Donoso",
+            "phone": "+56977487446",
+            "email": "ana.gonzalez.d29@gmail.com",
+            "documentNumber": "7.486.689-1",
+            "birthdate": null,
+            "firestoreToken": "eoi22Fy0RY6GeSxMRbi-5n:APA91bFdA_fE5h0J_Sui-KXZG9hF3aqs5ddYTcQxWgs_l_FAFFWL89if-GjgWzq3vRDwDnv0h18zcC-wAk2Ixc5SRh85D-K3GYKX8JteXPuqgf1NaCt5hHBZc5moJD1NG2z9DcI3pGz7",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-10-11T09:11:02.055Z",
+            "updatedAt": "2024-10-25T19:07:30.661Z",
+            "createdBy": "sarahilisbeth.villalobosrondon@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 127,
+                    "code": "J843",
+                    "name": "JUMBO SAN BERNARDO",
+                    "lat": -33.63383876812627,
+                    "long": -70.70984433588002,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 21460,
+                "licencePlate": "HDJC73",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "b99da98e-2f30-4957-9cef-4907051e4bf6",
+            "name": "Raul",
+            "lastName": "Bustamante Olivares",
+            "fullName": "Raul Bustamante Olivares",
+            "phone": "56957431201",
+            "email": "raulantonio.bustamanteolivares@gmail.com",
+            "documentNumber": "9.708.722-9",
+            "birthdate": null,
+            "firestoreToken": "fPPuLV67QH2klp_xkErUNQ:APA91bE27_Lg0WgY7f2MaSkeDEjfftxufKaw_1wK_lzT14M9oiyjA_us7nuxrJ_RAOrHX2N2tI89uGyEotLm8lsI_eKQX_P6ejgi8Fm3rNjVeo7aVKWf85s-cZyGGpHRO67cBU0hwPci",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-13T02:34:17.365Z",
+            "updatedAt": "2024-10-25T19:07:29.992Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 7311,
+                "licencePlate": "LRWP56",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "9a48ee44-9939-4921-8393-dc1673dd0d46",
+            "name": "Luis Alejandro",
+            "lastName": "Droguett",
+            "fullName": "Luis Alejandro Droguett",
+            "phone": "+56951556880",
+            "email": "alejandrodroguett26@gmail.com",
+            "documentNumber": "16.880.239-0",
+            "birthdate": null,
+            "firestoreToken": "c85vQHzLTeOeXkJjjNF22R:APA91bHrWmyGJk4Ql5w8lptx5MzkyfFSs_7abH__qvfxrnP8pGkT20ayoiHecmo02vN-neKu5fJaZTNzxneTkiif20jGP6WGA49h5XBg_y_Vfv-AhEGDohbBk6vgrdzgiyOjgZgY_rOg",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-06-28T07:34:06.536Z",
+            "updatedAt": "2024-10-25T19:07:29.128Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 1216,
+                    "code": "J414",
+                    "name": "DARKSTORE LA DEHESA",
+                    "lat": -33.35710050784878,
+                    "long": -70.51448828941555,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 17118,
+                "licencePlate": "SKHK50",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "ba8a869b-8cd2-4fb1-baaf-97a6830cdd98",
+            "name": "VICTOR AMADO",
+            "lastName": "SANCHEZ ARAQUE",
+            "fullName": "VICTOR AMADO SANCHEZ ARAQUE",
+            "phone": "+56994931213",
+            "email": "vaks15296824@gmail.com",
+            "documentNumber": "263096126",
+            "birthdate": null,
+            "firestoreToken": "cpUnW_WfTWWHcuo2wiW_2P:APA91bFIeYqlipRYVnQWdaREe8s1eL5zIxggore04SbGYpaKY91Z5hJQRLTWWaElxuMuRHtN1yvu7mYJ_53pbwipWnnQAg9EH0ddKBbjxpcL7FRSIXM2YpL1iXdbExGUZFaX4Qqi4zYD",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729860800485,
+                        "externalId": "J775",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-09-03T23:03:02.717Z",
+            "updatedAt": "2024-10-25T19:07:28.931Z",
+            "createdBy": "carla.castrocastaneda@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 110,
+                    "code": "J989",
+                    "name": "JUMBO INDEPENDENCIA",
+                    "lat": -33.42376401681683,
+                    "long": -70.6536079,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 19930,
+                "licencePlate": "XXD39",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 7,
+                    "name": "MOTORCYCLE"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "74641d32-d596-4528-bd6b-19314f9781e1",
+            "name": "Marcelo",
+            "lastName": "Madrid  Gaete",
+            "fullName": "Marcelo Madrid  Gaete",
+            "phone": "+56946112538",
+            "email": "m.madrid1962@gmail.com",
+            "documentNumber": "9.487.153-0",
+            "birthdate": null,
+            "firestoreToken": "dTNWm8GnTPi6Ysvgv51QQS:APA91bEqgH5L-fEpSOJuj1nZf60lX8DWkx9jSp49bXA4IgWGH4UDHPjEJ8gZ8ORrnSb7KEpzRFfJRLcVyhXkgAQ_WAgnen05ToXp0zhJRBwPGybzXVITMku5itLtfCJiGKgkr560J-IS",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-07-29T22:38:35.655Z",
+            "updatedAt": "2024-10-25T19:07:28.817Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 18305,
+                "licencePlate": "BGXR49",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "cb2a5ad1-1117-48e1-9a95-839b78219722",
+            "name": "Yomheiber Alejandro",
+            "lastName": "Crescini Pinto",
+            "fullName": "Yomheiber Alejandro Crescini Pinto",
+            "phone": "56949403096",
+            "email": "yomheiberalejandro@gmail.com",
+            "documentNumber": "27.049.000-K",
+            "birthdate": null,
+            "firestoreToken": "dbb1dfE1QyKTBwvFBLxKl4:APA91bHx3Vh0PBRLcIY4EeVEUiTA_L5uDaHBwzJnmY7lawcp877FAbWXTGEFZ5PHhZFwye4lUC-xRp_Di4MFKv3T7foKrUr80Y2QjD6JxVw-7RHTc6GHWH6bTmILTqL-z4m937FTxl3F",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-20T21:48:15.083Z",
+            "updatedAt": "2024-10-25T19:07:27.514Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 113,
+                    "code": "J511",
+                    "name": "JUMBO COSTANERA",
+                    "lat": -33.41789950208208,
+                    "long": -70.60650736230298,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 112,
+                    "code": "J502",
+                    "name": "DARKSTORE KENNEDY",
+                    "lat": -33.39157914850497,
+                    "long": -70.545955089287,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 805,
+                    "code": "J403",
+                    "name": "DARKSTORE MAIPU",
+                    "lat": -33.47988379382734,
+                    "long": -70.75157908800772,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 1216,
+                    "code": "J414",
+                    "name": "DARKSTORE LA DEHESA",
+                    "lat": -33.35710050784878,
+                    "long": -70.51448828941555,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 1,
+                    "code": "E502",
+                    "name": "EASY KENNEDY",
+                    "lat": -33.3905798963371,
+                    "long": -70.5450584584866,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 1404,
+                "licencePlate": "RPKS13",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "3068d7c9-c43c-46b8-8924-f5907e5788fb",
+            "name": "CIRO",
+            "lastName": "GOMEZ RAMIREZ",
+            "fullName": "CIRO GOMEZ RAMIREZ",
+            "phone": "56945432758",
+            "email": "cirogomez29@gmail.com",
+            "documentNumber": "26288124-5",
+            "birthdate": null,
+            "firestoreToken": "fmGb5e9KSaWlzy2Ols_jHr:APA91bEaQ7L43BbqJlIIvqwFrOEPK6XrUXe4DE01Rdk5bKmAtvSfiilCZtbrzxBtrVb41_ogrm7m_63hCjjddpCzKQ_B89hTUmCPKVGU6dARpPrXucEcj9PHheNl2M2Df3zzZ3Jv8cf9",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-02-14T17:23:17.028Z",
+            "updatedAt": "2024-10-25T19:07:27.435Z",
+            "createdBy": "kevin.aceituno@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.46",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 114,
+                    "code": "J512",
+                    "name": "DARKSTORE LA REINA",
+                    "lat": -33.42759872128231,
+                    "long": -70.54045533874493,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 123,
+                    "code": "J659",
+                    "name": "JUMBO CONCHA Y TORO",
+                    "lat": -33.57099055426189,
+                    "long": -70.58485723345716,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 108,
+                    "code": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "lat": -33.46490577897376,
+                    "long": -70.5979252813141,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 6222,
+                "licencePlate": "PJDR36",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "709fb170-ebe2-4b69-94d8-dc8ceba07e73",
+            "name": "FREINELL",
+            "lastName": "PINEDA",
+            "fullName": "FREINELL PINEDA",
+            "phone": "+56983499895",
+            "email": "freinellpineda@gmail.com",
+            "documentNumber": "26831173-4",
+            "birthdate": null,
+            "firestoreToken": "f7pAnIl-QB62lFR0xXoWHd:APA91bGj8JuVP_xRtX6j7WDJR7SBinzCLuhbeRQp40tMM9SXQDZbCOlE9jIbaR8joWo9vafsKUMl8STfaF6E-tXxZrGTOCUWftGQBcnf3zhso18pGQzY5tUEl8oRAdwOpq_nsmeS8Oip",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-03-27T19:16:05.747Z",
+            "updatedAt": "2024-10-25T19:07:27.137Z",
+            "createdBy": "andrea.vieira@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 206,
+                    "code": "N651",
+                    "name": "SISA Valle Grande",
+                    "lat": -33.3246122,
+                    "long": -70.7466604,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 29,
+                    "code": "E655",
+                    "name": "EASY QUILICURA",
+                    "lat": -33.3580923457041,
+                    "long": -70.7288717449941,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 58,
+                    "code": "37",
+                    "name": "PARIS PLAZA NORTE ",
+                    "lat": -33.364689272139955,
+                    "long": -70.67961124314583,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 110,
+                    "code": "J989",
+                    "name": "JUMBO INDEPENDENCIA",
+                    "lat": -33.42376401681683,
+                    "long": -70.6536079,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 12456,
+                "licencePlate": "RDCP36",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 13,
+                "name": "Zubale"
+            }
+        },
+        {
+            "id": "b64b25d2-479b-438c-a975-4c7c4b5265b4",
+            "name": "Oliver",
+            "lastName": "Urra",
+            "fullName": "Oliver Urra",
+            "phone": "+56931441339",
+            "email": "oliverurra@hotmail.com",
+            "documentNumber": "11.473.335-0",
+            "birthdate": null,
+            "firestoreToken": "do9YL3kHRHWNheXb5-p9g2:APA91bHOlH1amxTlcfAU8UGjIB9yMJRFMtq9RwI3G2Rn55TcfCJrvf-FZxgJ__3XSrzoN0dov1lto_NSBBZVL5yk1IkGcOqju0XpfvAJTd8SuyWJdD_w-f58SPaGjtK9H6PdyhH804gM",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-01-10T14:44:00.523Z",
+            "updatedAt": "2024-10-25T19:07:26.349Z",
+            "createdBy": "cesar.flores@cencosud.cl",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": null,
+            "associatedStores": [
+                {
+                    "id": 2,
+                    "code": "E503",
+                    "name": "EASY MAIPU",
+                    "lat": -33.4785107961353,
+                    "long": -70.7537129053967,
+                    "retailChain": {
+                        "id": 3,
+                        "code": "EASY_CL",
+                        "name": "Easy"
+                    }
+                },
+                {
+                    "id": 805,
+                    "code": "J403",
+                    "name": "DARKSTORE MAIPU",
+                    "lat": -33.47988379382734,
+                    "long": -70.75157908800772,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 1,
+                "name": "UNAVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 1423,
+                "licencePlate": "SKDB65",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 1,
+                    "name": "UNAVAILABLE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "db21e75c-3d47-4a56-b6ce-fa739fe79191",
+            "name": "Juan",
+            "lastName": "Trivick",
+            "fullName": "Juan Trivick",
+            "phone": "+56991960683",
+            "email": "jpatriciotrivickm70@gmail.com",
+            "documentNumber": "13415107-2",
+            "birthdate": null,
+            "firestoreToken": "fQaF2J5wTXSralrT3Rs9ur:APA91bExZ6wkfkxJ_jmQbc5yGT7lllDPcLPVkZdzz98ybVXTu9mHaFuBnz8NRR_3zhFiy3na_wqxquqYNDqSy3dbnuJp2SFKQURN16kt9TNyvLMHH_gRNT5UJRw8J4E4gp1V758ZeHsK",
+            "geofence": [
+                {
+                    "knownSource": {
+                        "time": 1729861644511,
+                        "externalId": "J660",
+                        "retailChainCode": "JUMBO_CL"
+                    }
+                }
+            ],
+            "statusDetail": null,
+            "createdAt": "2024-08-12T21:25:05.161Z",
+            "updatedAt": "2024-10-25T19:07:25.595Z",
+            "createdBy": "noemi.bravo@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 66,
+                    "code": "103",
+                    "name": "PARIS IQUIQUE",
+                    "lat": -20.21390646185766,
+                    "long": -70.15028405885735,
+                    "retailChain": {
+                        "id": 2,
+                        "code": "PARIS_CL",
+                        "name": "Paris"
+                    }
+                },
+                {
+                    "id": 95,
+                    "code": "J660",
+                    "name": "JUMBO IQUIQUE",
+                    "lat": -20.238383858854345,
+                    "long": -70.14485637419853,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 183,
+                    "code": "N811",
+                    "name": "SANTA ISABEL ALTO HOSPICIO",
+                    "lat": -20.27567024877767,
+                    "long": -70.0969794896954,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                },
+                {
+                    "id": 182,
+                    "code": "N590",
+                    "name": "SANTA ISABEL TARAPACÁ",
+                    "lat": -20.213901288626047,
+                    "long": -70.15028970503894,
+                    "retailChain": {
+                        "id": 4,
+                        "code": "SISA_CL",
+                        "name": "Santa Isabel"
+                    }
+                }
+            ],
+            "status": {
+                "id": 2,
+                "name": "AVAILABLE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 18889,
+                "licencePlate": "KVLX71",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 3,
+                    "name": "PICKUP_TRUCK"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 2,
+                    "name": "AVAILABLE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 20,
+                "name": "Transportes DNG"
+            }
+        },
+        {
+            "id": "efb8343c-f2e6-4903-9d0c-5292034e0e41",
+            "name": "Tiare",
+            "lastName": "Alvear Larrain",
+            "fullName": "Tiare Alvear Larrain",
+            "phone": "+56938874087",
+            "email": "tiarealvear77@gmail.com",
+            "documentNumber": "21.349.075-3",
+            "birthdate": null,
+            "firestoreToken": "f1tyOddYRDG1udQEAhTT7A:APA91bHLoCJh0q2ESLs1crVvP4R-zeyHyfhqWsNmd52wa4BmLo0iKh1TiBpDF9TMgXYU1eAFZqCTARv18CosHqB57BUupRs8wx-kLSjGeSdMSNkLvMmfwWdypXN9U-xuMK9elfAwHoAi",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-09-13T03:51:35.243Z",
+            "updatedAt": "2024-10-25T19:07:25.306Z",
+            "createdBy": "alison.conchesoramos@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 102,
+                    "code": "J508",
+                    "name": "DARKSTORE VIÑA",
+                    "lat": -33.03516047670986,
+                    "long": -71.52357760082762,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 20551,
+                "licencePlate": "SFZW29",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 4,
+                    "name": "CAR"
+                },
+                "propulsionType": {
+                    "id": 4,
+                    "name": "GASOLINE"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 10
+            },
+            "provider": {
+                "id": 1,
+                "name": "Boosmap Chile"
+            }
+        },
+        {
+            "id": "ec0e2c17-9eea-4676-be1b-c47591ba4da4",
+            "name": "PEDALBERT",
+            "lastName": "GUEVARA GOMEZ",
+            "fullName": "PEDALBERT GUEVARA GOMEZ",
+            "phone": "+56972384579",
+            "email": "guevarapedalbert@gmail.com",
+            "documentNumber": "271664249",
+            "birthdate": null,
+            "firestoreToken": "fxK5zzRZSLeM0aRnJYy5v8:APA91bFkohgdTaUYwUSAFIHwAINsZPf1IsRwSf1YsLWn-gpcRNcQo_ghXUf2bQ2DcAN2t-w8ZQ_l-FhDfyIv_h9TEFwlnqKDU4O5d8baiYZc_tCeiv0LhUHCo4FV02n-WF1FZkbaK6lb",
+            "geofence": null,
+            "statusDetail": null,
+            "createdAt": "2024-03-14T19:13:18.654Z",
+            "updatedAt": "2024-10-25T19:07:23.873Z",
+            "createdBy": "laura.aguila@externos-cl.cencosud.com",
+            "updatedBy": null,
+            "deletedAt": null,
+            "appVersion": "1.1.48",
+            "country": {
+                "id": 1,
+                "name": "Chile",
+                "code": "CL"
+            },
+            "profile": {
+                "id": 2,
+                "name": "Programmed"
+            },
+            "associatedStores": [
+                {
+                    "id": 113,
+                    "code": "J511",
+                    "name": "JUMBO COSTANERA",
+                    "lat": -33.41789950208208,
+                    "long": -70.60650736230298,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                },
+                {
+                    "id": 1227,
+                    "code": "J411",
+                    "name": "DARKSTORE COSTANERA",
+                    "lat": -33.41789950208208,
+                    "long": -70.60650736230298,
+                    "retailChain": {
+                        "id": 1,
+                        "code": "JUMBO_CL",
+                        "name": "Jumbo"
+                    }
+                }
+            ],
+            "status": {
+                "id": 3,
+                "name": "IN-ROUTE"
+            },
+            "documentType": {
+                "id": 1,
+                "name": "DNI"
+            },
+            "gender": null,
+            "vehicle": {
+                "id": 10542,
+                "licencePlate": "CARROELECTRICO-TPF84",
+                "country": {
+                    "id": 1,
+                    "name": "Chile",
+                    "code": "CL"
+                },
+                "vehicleType": {
+                    "id": 6,
+                    "name": "ELECTRIC_CAR"
+                },
+                "propulsionType": {
+                    "id": 2,
+                    "name": "ELECTRIC"
+                },
+                "status": {
+                    "id": 3,
+                    "name": "IN-ROUTE"
+                },
+                "capacity": 5
+            },
+            "provider": {
+                "id": 18,
+                "name": "Kowski Chile"
+            }
+        }
+    ],
+    "meta": {
+        "isFirst": true,
+        "isLast": false,
+        "numberOfElements": 50,
+        "page": 1,
+        "pageSize": "50",
+        "totalElements": 13559,
+        "totalPages": 272
+    }
+}

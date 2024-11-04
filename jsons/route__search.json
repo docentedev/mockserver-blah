@@ -1,0 +1,254 @@
+{
+    "took": 1,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 1,
+            "relation": "eq"
+        },
+        "max_score": 1,
+        "hits": [
+            {
+                "_index": "routes",
+                "_type": "_doc",
+                "_id": "2618bcbf-e1fc-4f6a-a7e2-3654bda8d8e8",
+                "_score": 1,
+                "_source": {
+                    "eta_date": "2024-11-04T15:30:00.000Z",
+                    "status_history": [
+                        {
+                            "offline": 0,
+                            "created_at": "2024-11-04T13:38:08.308Z",
+                            "status": "ASSIGNED"
+                        }
+                    ],
+                    "created_at": "2024-11-04T13:38:08.308Z",
+                    "created_by": "patricioalejandro.cabellopoblete@externos-cl.cencosud.com",
+                    "vehicle": {
+                        "licence_plate": "GKGC-34",
+                        "vehicle_type": "CAR",
+                        "id": "8313"
+                    },
+                    "driver": {
+                        "associated_stores": [
+                            {
+                                "code": "38",
+                                "retailChainCode": "PARIS_CL",
+                                "retailChainName": "Paris",
+                                "name": "PARIS TALCA",
+                                "lat": -35.42767014437593,
+                                "long": -71.65582654565695
+                            },
+                            {
+                                "code": "J591",
+                                "retailChainCode": "JUMBO_CL",
+                                "retailChainName": "Jumbo",
+                                "name": "JUMBO TALCA",
+                                "lat": -35.428912401507596,
+                                "long": -71.67134099101786
+                            },
+                            {
+                                "code": "E591",
+                                "retailChainCode": "EASY_CL",
+                                "retailChainName": "Easy",
+                                "name": "EASY TALCA EL ARENAL",
+                                "lat": -35.4300375223704,
+                                "long": -71.6701460737585
+                            },
+                            {
+                                "code": "N828",
+                                "retailChainCode": "SISA_CL",
+                                "retailChainName": "Santa Isabel",
+                                "name": "SANTA ISABEL COLIN",
+                                "lat": -35.444879489442734,
+                                "long": -71.68859445843306
+                            }
+                        ],
+                        "phone": "+56932318292",
+                        "name": "Manuel Eduardo Sanhueza Flores",
+                        "id": "47ac3b3f-01c1-47e4-92fd-c89d1ab3df66"
+                    },
+                    "updated_at": "2024-11-04T13:38:08.308Z",
+                    "courier": {
+                        "name": null,
+                        "id": null
+                    },
+                    "provider": {
+                        "name": "Foxer",
+                        "id": "6"
+                    },
+                    "updated_by": "patricioalejandro.cabellopoblete@externos-cl.cencosud.com",
+                    "orders": [
+                        {
+                            "seller": {
+                                "address": "El Arenal 411",
+                                "lng": "-71.67134099101786",
+                                "name": "JUMBO TALCA",
+                                "externalId": "J591",
+                                "id": "129",
+                                "lat": "-35.428912401507596"
+                            },
+                            "last_status_code": "9003",
+                            "eta_date": "2024-11-04T14:00:00.000Z",
+                            "finished_at": null,
+                            "order_nr": "26154986",
+                            "status_history": [
+                                {
+                                    "last_status_code": "9003",
+                                    "created_at": "2024-11-04T13:38:08.308Z",
+                                    "status": "08"
+                                }
+                            ],
+                            "packs": [
+                                {
+                                    "tracking_nr": "v147172413jmch-01",
+                                    "status_code": "08",
+                                    "pack_id": 26195812,
+                                    "sub_status_code": "9003"
+                                }
+                            ],
+                            "retail_chain": {
+                                "code": "JUMBO_CL",
+                                "name": "Jumbo"
+                            },
+                            "dispatch_type": {
+                                "code": "SFS_ON_DEMAND",
+                                "enable": 1,
+                                "name": "Despacho desde Tienda On Demand"
+                            },
+                            "tags": [
+                                {
+                                    "name": "invoiceValue",
+                                    "value": "7755400"
+                                },
+                                {
+                                    "name": "url",
+                                    "value": "https://public-url-shortener.ecomm.cencosud.com/xbMRjZGm5HAVOPs6Pev3N"
+                                },
+                                {
+                                    "name": "PRIME",
+                                    "value": "true"
+                                },
+                                {
+                                    "name": "Transportadora",
+                                    "value": "Z1 Talca"
+                                },
+                                {
+                                    "name": "tags",
+                                    "value": "[{\"name\":\"Prime\",\"value\":\"Prime\"},{\"name\":\"Comentarios del usuario\",\"value\":\"Portones de pichimapu\"},{\"name\":\"invoiceValue\",\"value\":7755400},{\"name\":\"url\",\"value\":\"https://public-url-shortener.ecomm.cencosud.com/xbMRjZGm5HAVOPs6Pev3N\"},{\"name\":\"Transportadora\",\"value\":\"Z1 Talca\"}]"
+                                }
+                            ],
+                            "external_system_order_id": "v147172413jmch-01",
+                            "route_priority": 1,
+                            "id": "jdyry1b5ym332gkpm",
+                            "items": 1,
+                            "eta_end_date": "2024-11-04T15:30:00.000Z",
+                            "status": "08",
+                            "customer": {
+                                "address": "Uno Norte 3887",
+                                "lng": "-71.615219900000000",
+                                "city": "Talca",
+                                "phone": "+56965868385",
+                                "commune": "Talca",
+                                "name": "Diego Jiménez",
+                                "id": "jdyryhc2m332gkpl",
+                                "state": "Maule",
+                                "postal_code": "Talca",
+                                "lat": "-35.436560000000000",
+                                "email": "djimenezopazo@hotmail.com"
+                            }
+                        },
+                        {
+                            "seller": {
+                                "address": "El Arenal 411",
+                                "lng": "-71.67134099101786",
+                                "name": "JUMBO TALCA",
+                                "externalId": "J591",
+                                "id": "129",
+                                "lat": "-35.428912401507596"
+                            },
+                            "last_status_code": "9003",
+                            "eta_date": "2024-11-04T14:00:00.000Z",
+                            "finished_at": null,
+                            "order_nr": "26155671",
+                            "status_history": [
+                                {
+                                    "last_status_code": "9003",
+                                    "created_at": "2024-11-04T13:38:08.308Z",
+                                    "status": "08"
+                                }
+                            ],
+                            "packs": [
+                                {
+                                    "tracking_nr": "v147174707jmch-01",
+                                    "status_code": "08",
+                                    "pack_id": 26196500,
+                                    "sub_status_code": "9003"
+                                }
+                            ],
+                            "retail_chain": {
+                                "code": "JUMBO_CL",
+                                "name": "Jumbo"
+                            },
+                            "dispatch_type": {
+                                "code": "SFS_ON_DEMAND",
+                                "enable": 1,
+                                "name": "Despacho desde Tienda On Demand"
+                            },
+                            "tags": [
+                                {
+                                    "name": "PRIME",
+                                    "value": "true"
+                                },
+                                {
+                                    "name": "Transportadora",
+                                    "value": "Z1 Talca"
+                                },
+                                {
+                                    "name": "tags",
+                                    "value": "[{\"name\":\"Prime\",\"value\":\"Prime\"},{\"name\":\"invoiceValue\",\"value\":6760300},{\"name\":\"url\",\"value\":\"https://public-url-shortener.ecomm.cencosud.com/i_QKny5CgXZ3gtqbLd3b0\"},{\"name\":\"Transportadora\",\"value\":\"Z1 Talca\"}]"
+                                },
+                                {
+                                    "name": "invoiceValue",
+                                    "value": "6760300"
+                                },
+                                {
+                                    "name": "url",
+                                    "value": "https://public-url-shortener.ecomm.cencosud.com/i_QKny5CgXZ3gtqbLd3b0"
+                                }
+                            ],
+                            "external_system_order_id": "v147174707jmch-01",
+                            "route_priority": 2,
+                            "id": "jdyry1iqqm332gkpo",
+                            "items": 1,
+                            "eta_end_date": "2024-11-04T15:30:00.000Z",
+                            "status": "08",
+                            "customer": {
+                                "address": "37 oriente 2029 3865",
+                                "lng": "-71.612520899999990",
+                                "city": "Talca",
+                                "phone": "+56974276390",
+                                "commune": "Talca",
+                                "name": "Carolina Martinez-Galaz",
+                                "id": "jdyry1sq3m332gkpn",
+                                "state": "Maule",
+                                "postal_code": "Talca",
+                                "lat": "-35.428671600000000",
+                                "email": "cpmartinezgalaz@gmail.com"
+                            }
+                        }
+                    ],
+                    "id": "2618bcbf-e1fc-4f6a-a7e2-3654bda8d8e8",
+                    "eta_end_date": null,
+                    "status": "ASSIGNED"
+                }
+            }
+        ]
+    }
+}

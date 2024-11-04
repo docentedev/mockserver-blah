@@ -34,10 +34,6 @@ const getData = (req, res) => {
             "id": 8,
             "name": "OTHER"
         },
-        {
-            "id": 11,
-            "name": "PPPB16"
-        }
     ];
     res.statusCode = 200;
     res.json(response);

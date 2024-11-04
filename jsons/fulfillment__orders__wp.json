@@ -1,0 +1,2544 @@
+{
+    "dispatches": [
+        {
+            "id": 26159478,
+            "etaDate": 1731502800000,
+            "etaEndDate": 1731517259000,
+            "pickupDate": 1730727540767,
+            "externalSystemOrderId": "v25355843JRSA-01",
+            "orderType": "322",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713058,
+                "identification": {
+                    "type": "ARG_ID",
+                    "value": ""
+                },
+                "name": "JUMBO ROSARIO",
+                "email": "",
+                "phoneNumber": "",
+                "address": {
+                    "street": "Nansen",
+                    "postalCode": "S2000",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -32.9096509,
+                        "longitude": -60.68303545
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "14",
+                        "name": "Córdoba"
+                    },
+                    "subAdminZone1": {
+                        "code": "14119",
+                        "name": "Río Segundo"
+                    },
+                    "subAdminZone2": {
+                        "code": "141085",
+                        "name": "Villa del Rosario"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 877,
+                    "externalId": "jumboargentinaj5218rosario",
+                    "name": "JUMBO ROSARIO",
+                    "enable": true,
+                    "identification": {
+                        "type": "ARG_ID",
+                        "value": ""
+                    },
+                    "email": "",
+                    "phoneNumber": "",
+                    "address": {
+                        "street": "Nansen",
+                        "postalCode": "S2000",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -32.9096509,
+                            "longitude": -60.68303545
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 17,
+                        "name": "Jumbo (Argentina)",
+                        "enable": true,
+                        "businessUnitId": 4,
+                        "countryId": 2,
+                        "code": "JUMBO_AR"
+                    },
+                    "ruleName": null
+                },
+                "type": null,
+                "ruleName": null
+            },
+            "destination": {
+                "id": 26412041,
+                "name": "MACARENA MICO",
+                "email": "macarenamico@hotmail.com",
+                "phoneNumber": "+5493412172912",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Viraro 822, planta alta",
+                    "postalCode": null,
+                    "landmark": null,
+                    "location": {
+                        "latitude": -32.8811554,
+                        "longitude": -60.6969711
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "82",
+                        "name": "Santa Fe"
+                    },
+                    "subAdminZone1": {
+                        "code": "LZD",
+                        "name": "LZD"
+                    },
+                    "subAdminZone2": {
+                        "code": "N/A",
+                        "name": "N/A"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "32217303"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 877,
+                "externalId": "jumboargentinaj5218rosario",
+                "name": "JUMBO ROSARIO",
+                "enable": true,
+                "identification": {
+                    "type": "ARG_ID",
+                    "value": ""
+                },
+                "email": "",
+                "phoneNumber": "",
+                "address": {
+                    "street": "Nansen",
+                    "postalCode": "S2000",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -32.9096509,
+                        "longitude": -60.68303545
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 17,
+                    "name": "Jumbo (Argentina)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 2,
+                    "code": "JUMBO_AR"
+                },
+                "ruleName": null
+            },
+            "packages": [
+                {
+                    "id": 26200307,
+                    "lpn": "v25355843JRSA-01",
+                    "tracking": "v25355843JRSA-01",
+                    "gddNumber": "v25355843JRSA-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v25355843JRSA-01.pdf",
+                    "courierPackageId": "v25355843JRSA-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1731502800000,
+                "max": 1731517259000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v25355843JRSA-01"
+            ],
+            "trackings": [
+                "v25355843JRSA-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727540767,
+            "updatedAt": 1730727543062
+        },
+        {
+            "id": 26159475,
+            "etaDate": 1730739600000,
+            "etaEndDate": 1730754059000,
+            "pickupDate": 1730727535498,
+            "externalSystemOrderId": "v25355842JRSA-01",
+            "orderType": "322",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713055,
+                "identification": {
+                    "type": "ARG_ID",
+                    "value": ""
+                },
+                "name": "JUMBO NEUQUEN",
+                "email": "",
+                "phoneNumber": "",
+                "address": {
+                    "street": "Juan Julián Lastra",
+                    "postalCode": "Q8300",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -38.9598868,
+                        "longitude": -68.09402599
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "58",
+                        "name": "Neuquén"
+                    },
+                    "subAdminZone1": {
+                        "code": "58035",
+                        "name": "Confluencia"
+                    },
+                    "subAdminZone2": {
+                        "code": "580056",
+                        "name": "Neuquén"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 876,
+                    "externalId": "jumboargentinaj5216neuquen",
+                    "name": "JUMBO NEUQUEN",
+                    "enable": true,
+                    "identification": {
+                        "type": "ARG_ID",
+                        "value": ""
+                    },
+                    "email": "",
+                    "phoneNumber": "",
+                    "address": {
+                        "street": "Juan Julián Lastra",
+                        "postalCode": "Q8300",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -38.9598868,
+                            "longitude": -68.09402599
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 17,
+                        "name": "Jumbo (Argentina)",
+                        "enable": true,
+                        "businessUnitId": 4,
+                        "countryId": 2,
+                        "code": "JUMBO_AR"
+                    },
+                    "ruleName": null
+                },
+                "type": null,
+                "ruleName": null
+            },
+            "destination": {
+                "id": 26412038,
+                "name": "Romina Liliana Soledad Lopez",
+                "email": "romi_solyluna@hotmail.com",
+                "phoneNumber": "+542996378743",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Julio Argentino Roca 1295, Piso Barrio: 4,Departamento Barrio: A,Observaciones: tocar en el portero 401 y la campanita",
+                    "postalCode": "8300",
+                    "landmark": "Envío a Domicilio",
+                    "location": {
+                        "latitude": -38.9516003,
+                        "longitude": -68.0770501
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "58",
+                        "name": "Neuquén"
+                    },
+                    "subAdminZone1": {
+                        "code": "58035",
+                        "name": "Confluencia"
+                    },
+                    "subAdminZone2": {
+                        "code": "580056",
+                        "name": "Neuquén"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "27666699"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 876,
+                "externalId": "jumboargentinaj5216neuquen",
+                "name": "JUMBO NEUQUEN",
+                "enable": true,
+                "identification": {
+                    "type": "ARG_ID",
+                    "value": ""
+                },
+                "email": "",
+                "phoneNumber": "",
+                "address": {
+                    "street": "Juan Julián Lastra",
+                    "postalCode": "Q8300",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -38.9598868,
+                        "longitude": -68.09402599
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 17,
+                    "name": "Jumbo (Argentina)",
+                    "enable": true,
+                    "businessUnitId": 4,
+                    "countryId": 2,
+                    "code": "JUMBO_AR"
+                },
+                "ruleName": null
+            },
+            "packages": [
+                {
+                    "id": 26200304,
+                    "lpn": "v25355842JRSA-01",
+                    "tracking": "v25355842JRSA-01",
+                    "gddNumber": "v25355842JRSA-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v25355842JRSA-01.pdf",
+                    "courierPackageId": "v25355842JRSA-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730739600000,
+                "max": 1730754059000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v25355842JRSA-01"
+            ],
+            "trackings": [
+                "v25355842JRSA-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727535499,
+            "updatedAt": 1730727538781
+        },
+        {
+            "id": 26159473,
+            "etaDate": 1730728800000,
+            "etaEndDate": 1730736000000,
+            "pickupDate": 1730727531019,
+            "externalSystemOrderId": "v147187075jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713053,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO SAN BERNARDO",
+                "email": "",
+                "phoneNumber": "2-6174800",
+                "address": {
+                    "street": "Av. Portales 3698",
+                    "postalCode": "8081412",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.63383876812627,
+                        "longitude": -70.70984433588002
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "134",
+                        "name": "Maipo"
+                    },
+                    "subAdminZone2": {
+                        "code": "13401",
+                        "name": "San Bernardo"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 127,
+                    "externalId": "J843",
+                    "name": "JUMBO SAN BERNARDO",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "2-6174800",
+                    "address": {
+                        "street": "Av. Portales 3698",
+                        "postalCode": "8081412",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -33.63383876812627,
+                            "longitude": -70.70984433588002
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412036,
+                "name": "Sussy Inostroza",
+                "email": "sussyinostroza@yahoo.com",
+                "phoneNumber": "999299428",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "mario arroyo acuña 1049, casa",
+                    "postalCode": "8050000",
+                    "landmark": "///Camino los morros condominio prados de Nos",
+                    "location": {
+                        "latitude": -33.63163700101703,
+                        "longitude": -70.7116594891632
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "REGIÓN ME",
+                        "name": "REGIÓN METROPOLITANA"
+                    },
+                    "subAdminZone1": {
+                        "code": "N/A",
+                        "name": "N/A"
+                    },
+                    "subAdminZone2": {
+                        "code": "San Berna",
+                        "name": "San Bernardo"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "119937396"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 127,
+                "externalId": "J843",
+                "name": "JUMBO SAN BERNARDO",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "2-6174800",
+                "address": {
+                    "street": "Av. Portales 3698",
+                    "postalCode": "8081412",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.63383876812627,
+                        "longitude": -70.70984433588002
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200302,
+                    "lpn": "v147187075jmch-01",
+                    "tracking": "v147187075jmch-01",
+                    "gddNumber": "v147187075jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187075jmch-01.pdf",
+                    "courierPackageId": "v147187075jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730728800000,
+                "max": 1730736000000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187075jmch-01"
+            ],
+            "trackings": [
+                "v147187075jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727531019,
+            "updatedAt": 1730727533530
+        },
+        {
+            "id": 26159471,
+            "etaDate": 1730811600000,
+            "etaEndDate": 1730826000000,
+            "pickupDate": 1730727530802,
+            "externalSystemOrderId": "v147187093jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713051,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO ANTOFAGASTA",
+                "email": "",
+                "phoneNumber": "55-2694400",
+                "address": {
+                    "street": "Angamos 745",
+                    "postalCode": "1270236",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -23.66751128786648,
+                        "longitude": -70.40503413160576
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "02",
+                        "name": "Antofagasta"
+                    },
+                    "subAdminZone1": {
+                        "code": "021",
+                        "name": "Antofagasta"
+                    },
+                    "subAdminZone2": {
+                        "code": "02101",
+                        "name": "Antofagasta"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 91,
+                    "externalId": "J534",
+                    "name": "JUMBO ANTOFAGASTA",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "55-2694400",
+                    "address": {
+                        "street": "Angamos 745",
+                        "postalCode": "1270236",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -23.66751128786648,
+                            "longitude": -70.40503413160576
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412034,
+                "name": "Carlos Orlando Gatica  Meza",
+                "email": "su.inostroza@gmail.com",
+                "phoneNumber": "950990593",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Pasaje Baltazar Zuleta 989, casa",
+                    "postalCode": "Antofagasta",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -23.1023397,
+                        "longitude": -70.4432673
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "02",
+                        "name": "Antofagasta"
+                    },
+                    "subAdminZone1": {
+                        "code": "021",
+                        "name": "Antofagasta"
+                    },
+                    "subAdminZone2": {
+                        "code": "02102",
+                        "name": "Mejillones"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "109374121"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 91,
+                "externalId": "J534",
+                "name": "JUMBO ANTOFAGASTA",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "55-2694400",
+                "address": {
+                    "street": "Angamos 745",
+                    "postalCode": "1270236",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -23.66751128786648,
+                        "longitude": -70.40503413160576
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200300,
+                    "lpn": "v147187093jmch-01",
+                    "tracking": "v147187093jmch-01",
+                    "gddNumber": "v147187093jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187093jmch-01.pdf",
+                    "courierPackageId": "v147187093jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730811600000,
+                "max": 1730826000000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187093jmch-01"
+            ],
+            "trackings": [
+                "v147187093jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727530802,
+            "updatedAt": 1730727533099
+        },
+        {
+            "id": 26159467,
+            "etaDate": 1730728800000,
+            "etaEndDate": 1730736000000,
+            "pickupDate": 1730727525737,
+            "externalSystemOrderId": "v147187057jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713047,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO EL LLANO",
+                "email": "",
+                "phoneNumber": "2-8762426",
+                "address": {
+                    "street": "El Llano Subercaseaux 3519",
+                    "postalCode": "8910339",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.485683470789425,
+                        "longitude": -70.65153734683788
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13130",
+                        "name": "San Miguel"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 104,
+                    "externalId": "J513",
+                    "name": "JUMBO EL LLANO",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "2-8762426",
+                    "address": {
+                        "street": "El Llano Subercaseaux 3519",
+                        "postalCode": "8910339",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -33.485683470789425,
+                            "longitude": -70.65153734683788
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412030,
+                "name": "Soledad Álvarez Sáez",
+                "email": "alvarezsaez.s@gmail.com",
+                "phoneNumber": "950083913",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Lazo 1150, 1603",
+                    "postalCode": "Santiago",
+                    "landmark": "edificio milano",
+                    "location": {
+                        "latitude": -33.5004197,
+                        "longitude": -70.65506959999999
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13130",
+                        "name": "San Miguel"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "155789344"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 104,
+                "externalId": "J513",
+                "name": "JUMBO EL LLANO",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "2-8762426",
+                "address": {
+                    "street": "El Llano Subercaseaux 3519",
+                    "postalCode": "8910339",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.485683470789425,
+                        "longitude": -70.65153734683788
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200296,
+                    "lpn": "v147187057jmch-01",
+                    "tracking": "v147187057jmch-01",
+                    "gddNumber": "v147187057jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187057jmch-01.pdf",
+                    "courierPackageId": "v147187057jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730728800000,
+                "max": 1730736000000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187057jmch-01"
+            ],
+            "trackings": [
+                "v147187057jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727525737,
+            "updatedAt": 1730727528711
+        },
+        {
+            "id": 26159465,
+            "etaDate": 1730732400000,
+            "etaEndDate": 1730737800000,
+            "pickupDate": 1730727525636,
+            "externalSystemOrderId": "v147187063jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713045,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO COPIAPO",
+                "email": "",
+                "phoneNumber": "52-2200000",
+                "address": {
+                    "street": "Av. Copayapu 2406",
+                    "postalCode": "1533359",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -27.382137263688012,
+                        "longitude": -70.31710436722501
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "03",
+                        "name": "Atacama"
+                    },
+                    "subAdminZone1": {
+                        "code": "031",
+                        "name": "Copiapó"
+                    },
+                    "subAdminZone2": {
+                        "code": "03101",
+                        "name": "Copiapó"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 96,
+                    "externalId": "J760",
+                    "name": "JUMBO COPIAPO",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "52-2200000",
+                    "address": {
+                        "street": "Av. Copayapu 2406",
+                        "postalCode": "1533359",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -27.382137263688012,
+                            "longitude": -70.31710436722501
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412028,
+                "name": "Stephanie Wilhelm",
+                "email": "swilhelmn@gmail.com",
+                "phoneNumber": "996168439",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Los Carrera 4553, 10",
+                    "postalCode": "Copiapo",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -27.3961876,
+                        "longitude": -70.2958499
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "Copiapo",
+                        "name": "Copiapo"
+                    },
+                    "subAdminZone1": {
+                        "code": "Copiapo",
+                        "name": "Copiapo"
+                    },
+                    "subAdminZone2": {
+                        "code": "03101",
+                        "name": "Copiapó"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "169941785"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 96,
+                "externalId": "J760",
+                "name": "JUMBO COPIAPO",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "52-2200000",
+                "address": {
+                    "street": "Av. Copayapu 2406",
+                    "postalCode": "1533359",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -27.382137263688012,
+                        "longitude": -70.31710436722501
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200294,
+                    "lpn": "v147187063jmch-01",
+                    "tracking": "v147187063jmch-01",
+                    "gddNumber": "v147187063jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187063jmch-01.pdf",
+                    "courierPackageId": "v147187063jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730732400000,
+                "max": 1730737800000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187063jmch-01"
+            ],
+            "trackings": [
+                "v147187063jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727525637,
+            "updatedAt": 1730727528706
+        },
+        {
+            "id": 26159464,
+            "etaDate": 1730728800000,
+            "etaEndDate": 1730736000000,
+            "pickupDate": 1730727523959,
+            "externalSystemOrderId": "v147187066jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713044,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO INDEPENDENCIA",
+                "email": "",
+                "phoneNumber": "2-5628903",
+                "address": {
+                    "street": "Av. Independencia 565",
+                    "postalCode": "8380552",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.42376401681683,
+                        "longitude": -70.6536079
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13108",
+                        "name": "Independencia"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 110,
+                    "externalId": "J989",
+                    "name": "JUMBO INDEPENDENCIA",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "2-5628903",
+                    "address": {
+                        "street": "Av. Independencia 565",
+                        "postalCode": "8380552",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -33.42376401681683,
+                            "longitude": -70.6536079
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412027,
+                "name": "Daniel Orrego",
+                "email": "danielorregomelis@gmail.com",
+                "phoneNumber": "956914695",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Manuel Antonio Tocornal 359, 604",
+                    "postalCode": "8320000",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -33.4479619,
+                        "longitude": -70.6413371
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13101",
+                        "name": "Santiago"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "194354886"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 110,
+                "externalId": "J989",
+                "name": "JUMBO INDEPENDENCIA",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "2-5628903",
+                "address": {
+                    "street": "Av. Independencia 565",
+                    "postalCode": "8380552",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.42376401681683,
+                        "longitude": -70.6536079
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200293,
+                    "lpn": "v147187066jmch-01",
+                    "tracking": "v147187066jmch-01",
+                    "gddNumber": "v147187066jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187066jmch-01.pdf",
+                    "courierPackageId": "v147187066jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730728800000,
+                "max": 1730736000000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187066jmch-01"
+            ],
+            "trackings": [
+                "v147187066jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727523959,
+            "updatedAt": 1730727526218
+        },
+        {
+            "id": 26159463,
+            "etaDate": 1730728800000,
+            "etaEndDate": 1730736000000,
+            "pickupDate": 1730727521433,
+            "externalSystemOrderId": "v147187053jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713043,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO SAN BERNARDO",
+                "email": "",
+                "phoneNumber": "2-6174800",
+                "address": {
+                    "street": "Av. Portales 3698",
+                    "postalCode": "8081412",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.63383876812627,
+                        "longitude": -70.70984433588002
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "134",
+                        "name": "Maipo"
+                    },
+                    "subAdminZone2": {
+                        "code": "13401",
+                        "name": "San Bernardo"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 127,
+                    "externalId": "J843",
+                    "name": "JUMBO SAN BERNARDO",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "2-6174800",
+                    "address": {
+                        "street": "Av. Portales 3698",
+                        "postalCode": "8081412",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -33.63383876812627,
+                            "longitude": -70.70984433588002
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412026,
+                "name": "cristina Valdes",
+                "email": "cristinavaldes01@gmail.com",
+                "phoneNumber": "993969156",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Los Coraceros 16612",
+                    "postalCode": "Maipo",
+                    "landmark": "Padre hurtado con capitanía, villa santa Barbara",
+                    "location": {
+                        "latitude": -33.61328063020383,
+                        "longitude": -70.6814945
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "134",
+                        "name": "Maipo"
+                    },
+                    "subAdminZone2": {
+                        "code": "13401",
+                        "name": "San Bernardo"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "159315347"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 127,
+                "externalId": "J843",
+                "name": "JUMBO SAN BERNARDO",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "2-6174800",
+                "address": {
+                    "street": "Av. Portales 3698",
+                    "postalCode": "8081412",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.63383876812627,
+                        "longitude": -70.70984433588002
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200292,
+                    "lpn": "v147187053jmch-01",
+                    "tracking": "v147187053jmch-01",
+                    "gddNumber": "v147187053jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187053jmch-01.pdf",
+                    "courierPackageId": "v147187053jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730728800000,
+                "max": 1730736000000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187053jmch-01"
+            ],
+            "trackings": [
+                "v147187053jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727521433,
+            "updatedAt": 1730727525889
+        },
+        {
+            "id": 26159461,
+            "etaDate": 1730732400000,
+            "etaEndDate": 1730737800000,
+            "pickupDate": 1730727520483,
+            "externalSystemOrderId": "v147186897jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713041,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO RANCAGUA",
+                "email": "",
+                "phoneNumber": "72-2204500",
+                "address": {
+                    "street": "Av. Presidente Frei Montalva 750",
+                    "postalCode": "2820785",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -34.18498788112307,
+                        "longitude": -70.72425027061564
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "06",
+                        "name": "Libertador General Bernardo O'Higgins"
+                    },
+                    "subAdminZone1": {
+                        "code": "061",
+                        "name": "Cachapoal"
+                    },
+                    "subAdminZone2": {
+                        "code": "06101",
+                        "name": "Rancagua"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 121,
+                    "externalId": "J504",
+                    "name": "JUMBO RANCAGUA",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "72-2204500",
+                    "address": {
+                        "street": "Av. Presidente Frei Montalva 750",
+                        "postalCode": "2820785",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -34.18498788112307,
+                            "longitude": -70.72425027061564
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412024,
+                "name": "Gissella Pérez",
+                "email": "jooplina@gmail.com",
+                "phoneNumber": "953660250",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Arica 1391",
+                    "postalCode": "Cachapoal",
+                    "landmark": null,
+                    "location": {
+                        "latitude": -34.1324825,
+                        "longitude": -70.74185969999999
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "06",
+                        "name": "Libertador General Bernardo O'Higgins"
+                    },
+                    "subAdminZone1": {
+                        "code": "061",
+                        "name": "Cachapoal"
+                    },
+                    "subAdminZone2": {
+                        "code": "06101",
+                        "name": "Rancagua"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "159930866"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 121,
+                "externalId": "J504",
+                "name": "JUMBO RANCAGUA",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "72-2204500",
+                "address": {
+                    "street": "Av. Presidente Frei Montalva 750",
+                    "postalCode": "2820785",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -34.18498788112307,
+                        "longitude": -70.72425027061564
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200290,
+                    "lpn": "v147186897jmch-01",
+                    "tracking": "v147186897jmch-01",
+                    "gddNumber": "v147186897jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147186897jmch-01.pdf",
+                    "courierPackageId": "v147186897jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730732400000,
+                "max": 1730737800000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147186897jmch-01"
+            ],
+            "trackings": [
+                "v147186897jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727520483,
+            "updatedAt": 1730727523148
+        },
+        {
+            "id": 26159458,
+            "etaDate": 1730741400000,
+            "etaEndDate": 1730748600000,
+            "pickupDate": 1730727511035,
+            "externalSystemOrderId": "v147187028jmch-01",
+            "orderType": "72",
+            "size": null,
+            "height": null,
+            "width": null,
+            "length": null,
+            "weight": null,
+            "externalSystem": {
+                "id": 18,
+                "name": "Sales Order",
+                "description": "Service Enterprise System to Manage Sales Order",
+                "type": "INTERNAL",
+                "groupCode": "CENCOMMERCE",
+                "enable": true
+            },
+            "dispatchType": {
+                "id": 24,
+                "name": "Despacho desde Tienda On Demand",
+                "code": "SFS_ON_DEMAND",
+                "enable": true,
+                "shippingEarly": false
+            },
+            "vehicle": null,
+            "driver": null,
+            "origin": {
+                "id": 26713038,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "name": "JUMBO ÑUÑOA",
+                "email": "",
+                "phoneNumber": "2-5628800",
+                "address": {
+                    "street": "Av. Jose Pedro Alessandri 1166",
+                    "postalCode": "7800002",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.46490577897376,
+                        "longitude": -70.5979252813141
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13120",
+                        "name": "Ñuñoa"
+                    }
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1,
+                "isClient": false,
+                "knownSource": {
+                    "id": 108,
+                    "externalId": "J775",
+                    "name": "JUMBO ÑUÑOA",
+                    "enable": true,
+                    "identification": {
+                        "type": "CL_ID",
+                        "value": "81.201.000-K"
+                    },
+                    "email": "",
+                    "phoneNumber": "2-5628800",
+                    "address": {
+                        "street": "Av. Jose Pedro Alessandri 1166",
+                        "postalCode": "7800002",
+                        "landmark": "",
+                        "location": {
+                            "latitude": -33.46490577897376,
+                            "longitude": -70.5979252813141
+                        },
+                        "country": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "adminZone": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone1": {
+                            "code": "",
+                            "name": ""
+                        },
+                        "subAdminZone2": {
+                            "code": "",
+                            "name": ""
+                        }
+                    },
+                    "knownSourceType": {
+                        "id": 1,
+                        "name": "Cencosud Store",
+                        "enable": true
+                    },
+                    "retailChain": {
+                        "id": 1,
+                        "name": "Jumbo",
+                        "enable": true,
+                        "businessUnitId": 1,
+                        "countryId": 1,
+                        "code": "JUMBO_CL"
+                    },
+                    "ruleName": "CL_JUMBO_HOME_DELIVERY"
+                },
+                "type": null,
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "destination": {
+                "id": 26412021,
+                "name": "Patricia Villarroel",
+                "email": "pvillarroel.dominguez@gmail.com",
+                "phoneNumber": "985292916",
+                "isClient": false,
+                "type": null,
+                "address": {
+                    "street": "Brown Sur 945, Casa",
+                    "postalCode": "7750000",
+                    "landmark": "Pasaje cerrado casa al lado izquierdo de edificio",
+                    "location": {
+                        "latitude": -33.4641854,
+                        "longitude": -70.59258129999999
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "13",
+                        "name": "Metropolitana de Santiago"
+                    },
+                    "subAdminZone1": {
+                        "code": "131",
+                        "name": "Santiago"
+                    },
+                    "subAdminZone2": {
+                        "code": "13120",
+                        "name": "Ñuñoa"
+                    }
+                },
+                "identification": {
+                    "type": null,
+                    "value": "91334801"
+                },
+                "knownSourceId": null,
+                "knownSourceTypeId": 1
+            },
+            "scheduledTime": {
+                "id": 1,
+                "name": "Horario de Tienda",
+                "description": "Horario de atención a público",
+                "enable": true
+            },
+            "ownerKnownSource": {
+                "id": 108,
+                "externalId": "J775",
+                "name": "JUMBO ÑUÑOA",
+                "enable": true,
+                "identification": {
+                    "type": "CL_ID",
+                    "value": "81.201.000-K"
+                },
+                "email": "",
+                "phoneNumber": "2-5628800",
+                "address": {
+                    "street": "Av. Jose Pedro Alessandri 1166",
+                    "postalCode": "7800002",
+                    "landmark": "",
+                    "location": {
+                        "latitude": -33.46490577897376,
+                        "longitude": -70.5979252813141
+                    },
+                    "country": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "adminZone": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone1": {
+                        "code": "",
+                        "name": ""
+                    },
+                    "subAdminZone2": {
+                        "code": "",
+                        "name": ""
+                    }
+                },
+                "knownSourceType": {
+                    "id": 1,
+                    "name": "Cencosud Store",
+                    "enable": true
+                },
+                "retailChain": {
+                    "id": 1,
+                    "name": "Jumbo",
+                    "enable": true,
+                    "businessUnitId": 1,
+                    "countryId": 1,
+                    "code": "JUMBO_CL"
+                },
+                "ruleName": "CL_JUMBO_HOME_DELIVERY"
+            },
+            "packages": [
+                {
+                    "id": 26200287,
+                    "lpn": "v147187028jmch-01",
+                    "tracking": "v147187028jmch-01",
+                    "gddNumber": "v147187028jmch-01",
+                    "bigTicket": false,
+                    "totalComplements": 0,
+                    "numberComplement": 1,
+                    "labelImgUrl": "https://daas-files.ecomm.cencosud.com/dispatch/labels/2024/November/04/v147187028jmch-01.pdf",
+                    "courierPackageId": "v147187028jmch-01",
+                    "lastStatusCode": "999",
+                    "lastStatusDesc": "Notificado",
+                    "lastSubStatusCode": null,
+                    "lastSubStatusDesc": null,
+                    "splitLabel": false
+                }
+            ],
+            "tags": [],
+            "deliveryWindow": {
+                "min": 1730741400000,
+                "max": 1730748600000
+            },
+            "status": {
+                "code": "999",
+                "description": "Notificado"
+            },
+            "measures": null,
+            "lpns": [
+                "v147187028jmch-01"
+            ],
+            "trackings": [
+                "v147187028jmch-01"
+            ],
+            "wasCreatedInCourier": false,
+            "createdAt": 1730727511035,
+            "updatedAt": 1730727513418
+        }
+    ]
+}

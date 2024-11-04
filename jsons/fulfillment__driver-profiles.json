@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "OnDemand",
+        "createRoute": false,
+        "readRoute": true,
+        "prioritizeOrder": false,
+        "pickUpMassive": false,
+        "detachOrder": false
+    },
+    {
+        "id": 2,
+        "name": "Programmed",
+        "createRoute": false,
+        "readRoute": true,
+        "prioritizeOrder": true,
+        "pickUpMassive": false,
+        "detachOrder": false
+    }
+]
